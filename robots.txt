@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mita38.github.io/sakamichi/sitemap.xml
+Sitemap: https://sakamichi-times.com/sitemap.xml
