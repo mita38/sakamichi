@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-07-30T20:30:59+09:00",
+ "generated_at": "2026-07-30T20:35:32+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -20,21 +20,6 @@
   }
  ],
  "events": [
-  {
-   "uid": "cee23039fbf58ee95a2aaab59c472eb7f36983ef",
-   "group": "nogizaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "deadline": "2026-08-09T00:00:00+09:00",
-   "title": "真夏の全国ツアー2026 宮城公演開催記念! 会場チャレンジ 開催中!",
-   "starts_at": "2026-07-10T12:00:00+09:00",
-   "ends_at": "2026-08-09T00:00:00+09:00",
-   "all_day": false,
-   "confidence": "high",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102128?ima=0040&pri1=202607",
-   "source_label": "乃木坂46 公式サイト"
-  },
   {
    "uid": "e3d18a77346c4efc030fa4e444c48019c3aa79fc",
    "group": "nogizaka46",
@@ -514,6 +499,36 @@
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "53bbe5225221db917e44a3cafd5997c08f7c31f5",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "フェス出演",
+   "round": null,
+   "deadline": null,
+   "title": "ひなたフェス2026",
+   "starts_at": "2026-09-05T14:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00868?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "e95582d5cadf1ecec2704d6f966db03bb0360ce3",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "フェス出演",
+   "round": null,
+   "deadline": null,
+   "title": "ひなたフェス2026",
+   "starts_at": "2026-09-06T14:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00868?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "1126505d4bc6e04a68581a2cfca987cac3e353c6",
