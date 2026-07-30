@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:b35a0b01f7f3e0cc82625dcd357269a1f3469de5@sakamichi-times.com
+DTSTAMP:20260730T143059Z
+DTSTART;TZID=Asia/Tokyo:20260823T160000
+DTEND;TZID=Asia/Tokyo:20260823T180000
+SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
+ ライブ・公演）
+LOCATION:セキスイハイムスーパーアリーナ（宮城）
+DESCRIPTION:ライブ・公演 / 櫻坂46\n会場: セキスイハイ
+ ムスーパーアリーナ（宮城）\n出典: 櫻坂46 公式サイ
+ ト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n坂
+ 道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR

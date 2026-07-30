@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:a8d2a7b5e157466d37abf1ea609d7733ba52da79@sakamichi-times.com
+DTSTAMP:20260730T143059Z
+DTSTART;TZID=Asia/Tokyo:20261028T183000
+DTEND;TZID=Asia/Tokyo:20261028T203000
+SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
+ 演）
+DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
+ 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102131?ima=0
+ 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
+ dar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
+ 02607
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR

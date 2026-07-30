@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:96217eef2a089ebf482ecc17b0da2ff6189c4bd5@sakamichi-times.com
+DTSTAMP:20260730T143059Z
+DTSTART;TZID=Asia/Tokyo:20260809T120000
+DTEND;TZID=Asia/Tokyo:20260811T235900
+SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
+ ト受付）
+DESCRIPTION:ライブチケット受付 / 乃木坂46\n締切: 8月11
+ 日(火) 23:59\n出典: 乃木坂46 公式サイト\nhttps://www.nogiza
+ ka46.com/s/n46/news/detail/102130?ima=0040&pri1=202607\n\n坂道タイ
+ ムズ https://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
+ 02607
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:真夏の全国ツアー2026 の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

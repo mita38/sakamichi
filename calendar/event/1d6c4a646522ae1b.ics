@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:1d6c4a646522ae1b25a3a7c545b100f8ef84ad91@sakamichi-times.com
+DTSTAMP:20260730T143059Z
+DTSTART;TZID=Asia/Tokyo:20260823T130000
+DTEND;TZID=Asia/Tokyo:20260823T150000
+SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
+DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
+ 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
+ 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR
