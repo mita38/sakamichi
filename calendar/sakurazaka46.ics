@@ -10,16 +10,16 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:b701c92950782a74af4a8d6c972d0c99725aa5ea@sakamichi-times.com
-DTSTAMP:20260729T235136Z
+DTSTAMP:20260730T003037Z
 DTSTART;TZID=Asia/Tokyo:20260728T120000
 DTEND;TZID=Asia/Tokyo:20260728T140000
-SUMMARY:[櫻坂46] MUSIC EXPO LIVE 2026 in TAIPEI（チケット・受
- 付）
-DESCRIPTION:チケット・受付 / 櫻坂46\n出典: 櫻坂46 公式
- サイト\nhttps://sakurazaka46.com/s/s46/news/detail/E00661?ima=0000\n
- \n坂道タイムズ https://sakamichi-times.com/calendar/
+SUMMARY:[櫻坂46] MUSIC EXPO LIVE 2026 in TAIPEI（ライブチケッ
+ ト受付）
+DESCRIPTION:ライブチケット受付 / 櫻坂46\n出典: 櫻坂46 
+ 公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/E00661?ima=
+ 0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/E00661?ima=0000
-CATEGORIES:チケット・受付
+CATEGORIES:ライブチケット受付
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -28,16 +28,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:14ae22549a5c547e1d382b2bdba0d6b27daf2f42@sakamichi-times.com
-DTSTAMP:20260729T235136Z
+DTSTAMP:20260730T003037Z
 DTSTART;TZID=Asia/Tokyo:20260728T210000
 DTEND;TZID=Asia/Tokyo:20260728T230000
-SUMMARY:[櫻坂46] LIVE Blu-ray&DVD『5th YEAR ANNIVERSARY LIVE a（チ
- ケット・受付）
-DESCRIPTION:チケット・受付 / 櫻坂46\n出典: 櫻坂46 公式
- サイト\nhttps://sakurazaka46.com/s/s46/news/detail/R00606?ima=0000\n
- \n坂道タイムズ https://sakamichi-times.com/calendar/
+SUMMARY:[櫻坂46] LIVE Blu-ray&DVD『5th YEAR ANNIVERSARY LIVE a（ラ
+ イブチケット受付）
+DESCRIPTION:ライブチケット受付 / 櫻坂46\n出典: 櫻坂46 
+ 公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/R00606?ima=
+ 0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/R00606?ima=0000
-CATEGORIES:チケット・受付
+CATEGORIES:ライブチケット受付
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -47,16 +47,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d50b5052402b6db1b59b242309301436195156fc@sakamichi-times.com
-DTSTAMP:20260729T235136Z
+DTSTAMP:20260730T003037Z
 DTSTART;TZID=Asia/Tokyo:20260729T140000
 DTEND;TZID=Asia/Tokyo:20260730T140000
-SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（チケッ
- ト・受付）
-DESCRIPTION:チケット・受付 / 櫻坂46\n出典: 櫻坂46 公式
- サイト\nhttps://sakurazaka46.com/s/s46/news/detail/S00223?ima=0000\n
- \n坂道タイムズ https://sakamichi-times.com/calendar/
+SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
+ ＆グリート受付）
+DESCRIPTION:ミート＆グリート受付 / 櫻坂46\n出典: 櫻坂46
+  公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/S00223?ima
+ =0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/S00223?ima=0000
-CATEGORIES:チケット・受付
+CATEGORIES:ミート＆グリート受付
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -65,47 +65,29 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:acfe788d438bad434b2c2407e090a73304c1b8ce@sakamichi-times.com
-DTSTAMP:20260729T235136Z
+DTSTAMP:20260730T003037Z
 DTSTART;TZID=Asia/Tokyo:20260802T080000
 DTEND;TZID=Asia/Tokyo:20260802T100000
-SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（イベン
- ト）
-DESCRIPTION:イベント / 櫻坂46\n出典: 櫻坂46 公式サイト\n
- https://sakurazaka46.com/s/s46/news/detail/S00222?ima=0000\n\n坂道タ
- イムズ https://sakamichi-times.com/calendar/
+SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
+ ＆グリート）
+DESCRIPTION:ミート＆グリート / 櫻坂46\n出典: 櫻坂46 公
+ 式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/S00222?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/S00222?ima=0000
-CATEGORIES:イベント
-END:VEVENT
-BEGIN:VEVENT
-UID:fab51e279e98d51cf7e1ec32b7053741bc6f424c@sakamichi-times.com
-DTSTAMP:20260729T235136Z
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（チケッ
- ト・受付）
-DESCRIPTION:チケット・受付 / 櫻坂46\n出典: 櫻坂46 公式
- サイト\nhttps://sakurazaka46.com/s/s46/news/detail/S00223?ima=0000\n
- \n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/S00223?ima=0000
-CATEGORIES:チケット・受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:Lonesome rabbit / What's “KAZOKU”? の受付期間です
-END:VALARM
+CATEGORIES:ミート＆グリート
 END:VEVENT
 BEGIN:VEVENT
 UID:b2c70887310f73fde6c0f9fba55c0547715805f1@sakamichi-times.com
-DTSTAMP:20260729T235136Z
+DTSTAMP:20260730T003037Z
 DTSTART;TZID=Asia/Tokyo:20260805T140000
 DTEND;TZID=Asia/Tokyo:20260806T140000
-SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（チケッ
- ト・受付）
-DESCRIPTION:チケット・受付 / 櫻坂46\n出典: 櫻坂46 公式
- サイト\nhttps://sakurazaka46.com/s/s46/news/detail/S00223?ima=0000\n
- \n坂道タイムズ https://sakamichi-times.com/calendar/
+SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
+ ＆グリート受付）
+DESCRIPTION:ミート＆グリート受付 / 櫻坂46\n出典: 櫻坂46
+  公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/S00223?ima
+ =0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/S00223?ima=0000
-CATEGORIES:チケット・受付
+CATEGORIES:ミート＆グリート受付
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -114,16 +96,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2a23b34b1cfbbf6d951d72d7f2663b36cfbbe79e@sakamichi-times.com
-DTSTAMP:20260729T235136Z
+DTSTAMP:20260730T003037Z
 DTSTART;TZID=Asia/Tokyo:20260813T140000
 DTEND;TZID=Asia/Tokyo:20260814T140000
-SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（チケッ
- ト・受付）
-DESCRIPTION:チケット・受付 / 櫻坂46\n出典: 櫻坂46 公式
- サイト\nhttps://sakurazaka46.com/s/s46/news/detail/S00223?ima=0000\n
- \n坂道タイムズ https://sakamichi-times.com/calendar/
+SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
+ ＆グリート受付）
+DESCRIPTION:ミート＆グリート受付 / 櫻坂46\n出典: 櫻坂46
+  公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/S00223?ima
+ =0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/S00223?ima=0000
-CATEGORIES:チケット・受付
+CATEGORIES:ミート＆グリート受付
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
@@ -132,15 +114,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20703691367954f08877b92534ff81056f996299@sakamichi-times.com
-DTSTAMP:20260729T235136Z
+DTSTAMP:20260730T003037Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
-SUMMARY:[櫻坂46] LIVE Blu-ray&DVD『5th YEAR ANNIVERSARY LIVE a（発
- 売）
-DESCRIPTION:発売 / 櫻坂46\n出典: 櫻坂46 公式サイト\nhttps:
- //sakurazaka46.com/s/s46/news/detail/R00604?ima=0000\n\n坂道タイム
- ズ https://sakamichi-times.com/calendar/
+SUMMARY:[櫻坂46] LIVE Blu-ray&DVD『5th YEAR ANNIVERSARY LIVE a（Blu
+ -ray・DVD発売）
+DESCRIPTION:Blu-ray・DVD発売 / 櫻坂46\n出典: 櫻坂46 公式サ
+ イト\nhttps://sakurazaka46.com/s/s46/news/detail/R00604?ima=0000\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/R00604?ima=0000
-CATEGORIES:発売
+CATEGORIES:Blu-ray・DVD発売
 END:VEVENT
 END:VCALENDAR
