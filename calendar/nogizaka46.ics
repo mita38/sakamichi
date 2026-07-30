@@ -9,113 +9,8 @@ X-WR-CALDESC:乃木坂46 予定（坂道タイムズ）
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:cee23039fbf58ee95a2aaab59c472eb7f36983ef@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260710T120000
-DTEND;TZID=Asia/Tokyo:20260809T000000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026 宮城公演開催
- 記念! 会場チャレンジ 開催中!（ライブチケット受付
- ）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 128?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102128?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 宮城公演開催記念! 会
- 場チャレンジ 開催中! の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9bd6c5748724a93de144226a50bdd6be1fb61ebf@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260724T120000
-DTEND;TZID=Asia/Tokyo:20260724T140000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026 宮城公演開催
- 記念! 会場チャレンジ 開催中!（放送・配信）
-DESCRIPTION:放送・配信 / 乃木坂46\n出典: 乃木坂46 公式
- サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102128?ima=0040
- &pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calendar
- /
-URL:https://www.nogizaka46.com/s/n46/news/detail/102128?ima=0040&pri1=2
- 02607
-CATEGORIES:放送・配信
-END:VEVENT
-BEGIN:VEVENT
-UID:c37646becff2552cf33e70681d663e9502fdccc6@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260724T180000
-DTEND;TZID=Asia/Tokyo:20260724T200000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（発売）
-DESCRIPTION:発売 / 乃木坂46\n出典: 乃木坂46 公式サイト\n
- https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=20260
- 7\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=2
- 02607
-CATEGORIES:発売
-END:VEVENT
-BEGIN:VEVENT
-UID:56ff4503acdf1dda8e06ce7cd775fb1caa107e8b@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260724T180000
-DTEND;TZID=Asia/Tokyo:20260724T200000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 126?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2ad2c7f64824501537683553e4d350f75f76a6d7@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260725T120000
-DTEND;TZID=Asia/Tokyo:20260729T235900
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 130?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9d927d628582f29cad8e172a931b483048a18a0b@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260725T160000
-DTEND;TZID=Asia/Tokyo:20260725T180000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102126?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:b061aa0b4ab65352814efd1c6e0f2a2f7fac2309@sakamichi-times.com
-DTSTAMP:20260730T083021Z
+DTSTAMP:20260730T100325Z
 DTSTART;VALUE=DATE:20260726
 DTEND;VALUE=DATE:20260727
 SUMMARY:[乃木坂46] 乃木坂工事中（配信）
@@ -127,46 +22,16 @@ URL:https://www.nogizaka46.com/s/n46/news/detail/102133?ima=0040&pri1=2
 CATEGORIES:配信
 END:VEVENT
 BEGIN:VEVENT
-UID:ec9d0e2ef824afd220120daf68f57d973b607e2d@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260726T100000
-DTEND;TZID=Asia/Tokyo:20260726T120000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026 宮城公演開催
- 記念! 会場チャレンジ 開催中!（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102128?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102128?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:1427e11b989018bd74efc8acc6ffcccd57578bbc@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260726T150000
-DTEND;TZID=Asia/Tokyo:20260726T170000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102126?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:e3d18a77346c4efc030fa4e444c48019c3aa79fc@sakamichi-times.com
-DTSTAMP:20260730T083021Z
+DTSTAMP:20260730T100325Z
 DTSTART;TZID=Asia/Tokyo:20260727T110000
 DTEND;TZID=Asia/Tokyo:20260804T235900
 SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブチケ
  ット受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 131?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
+DESCRIPTION:ライブチケット受付 / 乃木坂46\n締切: 8月4日
+ (火) 23:59\n出典: 乃木坂46 公式サイト\nhttps://www.nogizaka4
+ 6.com/s/n46/news/detail/102131?ima=0040&pri1=202607\n\n坂道タイム
+ ズ https://sakamichi-times.com/calendar/
 URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
  02607
 CATEGORIES:ライブチケット受付
@@ -177,144 +42,8 @@ DESCRIPTION:春よ来い、マジで来い の受付期間です
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5baeb492ba3839cd090abf181025693bb42d9cf1@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 130?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:4a6aba63d92f3c2ee5a9fa098c27618fb70cd8ba@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260806T180000
-DTEND;TZID=Asia/Tokyo:20260806T200000
-SUMMARY:[乃木坂46] 乃木坂野球部の8月6日(木)みずほPayPay
- ドーム福岡出演詳細&コラボグッズ・コラボグ（ライ
- ブ・公演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102129?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102129?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:96217eef2a089ebf482ecc17b0da2ff6189c4bd5@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260809T120000
-DTEND;TZID=Asia/Tokyo:20260811T235900
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 130?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:dc8655a6b279ba79fdf1eb6ba86a0dbd4204b700@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260811T235900
-DTEND;TZID=Asia/Tokyo:20260812T015900
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 130?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:6afa70bab89cae32ba058428f176b2d2a5e9acc8@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260820T153000
-DTEND;TZID=Asia/Tokyo:20260820T173000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102130?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:8845a17ef038ae1f9bc745ac580b1b4f52f00fff@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260821T153000
-DTEND;TZID=Asia/Tokyo:20260821T173000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102130?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:dd9f3f531fa9292a4df19bc5044a7ecdc8abd271@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260822T153000
-DTEND;TZID=Asia/Tokyo:20260822T173000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102130?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:d06de09794b521a89cd7516a4b18f3f9373fd851@sakamichi-times.com
-DTSTAMP:20260730T083021Z
-DTSTART;TZID=Asia/Tokyo:20260823T153000
-DTEND;TZID=Asia/Tokyo:20260823T173000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102130?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:6270ba2350be84dd06939d905a3f79a9e9046947@sakamichi-times.com
-DTSTAMP:20260730T083021Z
+DTSTAMP:20260730T100325Z
 DTSTART;TZID=Asia/Tokyo:20261028T133000
 DTEND;TZID=Asia/Tokyo:20261028T153000
 SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
@@ -329,7 +58,7 @@ CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:a8d2a7b5e157466d37abf1ea609d7733ba52da79@sakamichi-times.com
-DTSTAMP:20260730T083021Z
+DTSTAMP:20260730T100325Z
 DTSTART;TZID=Asia/Tokyo:20261028T183000
 DTEND;TZID=Asia/Tokyo:20261028T203000
 SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
@@ -344,7 +73,7 @@ CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:7b058097addefc08e15efd9169b6beb433fdd128@sakamichi-times.com
-DTSTAMP:20260730T083021Z
+DTSTAMP:20260730T100325Z
 DTSTART;TZID=Asia/Tokyo:20261029T183000
 DTEND;TZID=Asia/Tokyo:20261029T203000
 SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
@@ -359,7 +88,7 @@ CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:9206e539a4850511189d1a3f1774ce1082aa67cc@sakamichi-times.com
-DTSTAMP:20260730T083021Z
+DTSTAMP:20260730T100325Z
 DTSTART;TZID=Asia/Tokyo:20261030T133000
 DTEND;TZID=Asia/Tokyo:20261030T153000
 SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
@@ -374,7 +103,7 @@ CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:38a6c94dc9699bea44f92837d9f0c32429d68bc0@sakamichi-times.com
-DTSTAMP:20260730T083021Z
+DTSTAMP:20260730T100325Z
 DTSTART;TZID=Asia/Tokyo:20261031T130000
 DTEND;TZID=Asia/Tokyo:20261031T150000
 SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
@@ -389,7 +118,7 @@ CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:a26d295906ee3953be670f72bcc2fe566acc683d@sakamichi-times.com
-DTSTAMP:20260730T083021Z
+DTSTAMP:20260730T100325Z
 DTSTART;TZID=Asia/Tokyo:20261031T180000
 DTEND;TZID=Asia/Tokyo:20261031T200000
 SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
@@ -404,7 +133,7 @@ CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:4b5133b2dc8c9c219080b98048c18b230a27d38b@sakamichi-times.com
-DTSTAMP:20260730T083021Z
+DTSTAMP:20260730T100325Z
 DTSTART;TZID=Asia/Tokyo:20261101T130000
 DTEND;TZID=Asia/Tokyo:20261101T150000
 SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
