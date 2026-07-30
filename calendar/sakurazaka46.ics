@@ -9,27 +9,8 @@ X-WR-CALDESC:櫻坂46 予定（坂道タイムズ）
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:8505ce526d201c0455b5505fa388a3b1b173556d@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260725T120000
-DTEND;TZID=Asia/Tokyo:20260725T140000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブチケット受付）
-DESCRIPTION:ライブチケット受付 / 櫻坂46\n出典: 櫻坂46 
- 公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=
- 0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:「Sakurazaka46 ARENA TOUR 2026 -What’s loneso の受付
- 期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:b701c92950782a74af4a8d6c972d0c99725aa5ea@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260728T120000
 DTEND;TZID=Asia/Tokyo:20260728T140000
 SUMMARY:[櫻坂46] MUSIC EXPO LIVE 2026 in TAIPEI（ライブチケッ
@@ -46,21 +27,8 @@ DESCRIPTION:MUSIC EXPO LIVE 2026 in TAIPEI の受付期間です
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f8c9e6edab49c1cfe0e3bc543af645b9557baef2@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260728T170000
-DTEND;TZID=Asia/Tokyo:20260728T190000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:14ae22549a5c547e1d382b2bdba0d6b27daf2f42@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260728T210000
 DTEND;TZID=Asia/Tokyo:20260728T230000
 SUMMARY:[櫻坂46] LIVE Blu-ray&DVD『5th YEAR ANNIVERSARY LIVE a（ラ
@@ -79,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d50b5052402b6db1b59b242309301436195156fc@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260729T140000
 DTEND;TZID=Asia/Tokyo:20260730T140000
 SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
@@ -97,21 +65,8 @@ DESCRIPTION:Lonesome rabbit / What's “KAZOKU”? の受付期間です
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7c656a330f30cb73439e7e68d657411b0300b3e4@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260729T170000
-DTEND;TZID=Asia/Tokyo:20260729T190000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:4c132f5a0026af603f0a25ff66e75e81cc0fa348@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260731T180000
 DTEND;TZID=Asia/Tokyo:20260731T200000
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（チ
@@ -130,7 +85,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:acfe788d438bad434b2c2407e090a73304c1b8ce@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260802T080000
 DTEND;TZID=Asia/Tokyo:20260802T100000
 SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
@@ -143,7 +98,7 @@ CATEGORIES:ミート＆グリート
 END:VEVENT
 BEGIN:VEVENT
 UID:b2c70887310f73fde6c0f9fba55c0547715805f1@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260805T140000
 DTEND;TZID=Asia/Tokyo:20260806T140000
 SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
@@ -162,33 +117,37 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:27f56f3fd708326503d91b807e58a671bf240131@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260808T160000
 DTEND;TZID=Asia/Tokyo:20260808T180000
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（ラ
  イブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:広島グリーンアリーナ
+DESCRIPTION:ライブ・公演 / 櫻坂46\n会場: 広島グリーン
+ アリーナ\n出典: 櫻坂46 公式サイト\nhttps://sakurazaka46.co
+ m/s/s46/news/detail/E00662?ima=0000\n\n坂道タイムズ https://sakam
+ ichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0accebcfb6eea8ddcd885f4d44d4a08f729725@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260809T160000
 DTEND;TZID=Asia/Tokyo:20260809T180000
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（ラ
  イブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:広島グリーンアリーナ
+DESCRIPTION:ライブ・公演 / 櫻坂46\n会場: 広島グリーン
+ アリーナ\n出典: 櫻坂46 公式サイト\nhttps://sakurazaka46.co
+ m/s/s46/news/detail/E00662?ima=0000\n\n坂道タイムズ https://sakam
+ ichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:2a23b34b1cfbbf6d951d72d7f2663b36cfbbe79e@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260813T140000
 DTEND;TZID=Asia/Tokyo:20260814T140000
 SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
@@ -207,7 +166,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2564664db44d2e2a7d6fe4fb21849dc0b39e250c@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（ラ
@@ -220,7 +179,7 @@ CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:7fc8f0644108d97268508e3c3632db16b8fa53d6@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（発
@@ -232,21 +191,8 @@ URL:https://sakurazaka46.com/s/s46/news/detail/E00663?ima=0000
 CATEGORIES:発売
 END:VEVENT
 BEGIN:VEVENT
-UID:47824d621a081c6e73234e78a9350dbe07ece10d@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260822T160000
-DTEND;TZID=Asia/Tokyo:20260822T180000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:a5079f1487140d13b9d301a5186c1709d7e8edf0@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（ラ
@@ -258,47 +204,8 @@ URL:https://sakurazaka46.com/s/s46/news/detail/E00663?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
-UID:b35a0b01f7f3e0cc82625dcd357269a1f3469de5@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260823T160000
-DTEND;TZID=Asia/Tokyo:20260823T180000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:e44516831c77135f984b246baff2fb7cd2552b83@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260829T160000
-DTEND;TZID=Asia/Tokyo:20260829T180000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:0da1aee7454259f12bc95c3fc397457c62994d1d@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260830T160000
-DTEND;TZID=Asia/Tokyo:20260830T180000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:20703691367954f08877b92534ff81056f996299@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:[櫻坂46] LIVE Blu-ray&DVD『5th YEAR ANNIVERSARY LIVE a（Blu

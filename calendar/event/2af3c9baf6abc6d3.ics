@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:2af3c9baf6abc6d3e070328439f87cab776169e6@sakamichi-times.com
+DTSTAMP:20260730T130703Z
+DTSTART;TZID=Asia/Tokyo:20261209T163000
+DTEND;TZID=Asia/Tokyo:20261209T183000
+SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
+LOCATION:国立代々木競技場 第一体育館（東京）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 国立代々木
+ 競技場 第一体育館（東京）\n出典: 日向坂46 公式サイ
+ ト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR

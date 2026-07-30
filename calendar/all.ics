@@ -9,180 +9,8 @@ X-WR-CALDESC:坂道シリーズ 予定（坂道タイムズ）
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:c37646becff2552cf33e70681d663e9502fdccc6@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260724T180000
-DTEND;TZID=Asia/Tokyo:20260724T200000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（発売）
-DESCRIPTION:発売 / 乃木坂46\n出典: 乃木坂46 公式サイト\n
- https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=20260
- 7\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=2
- 02607
-CATEGORIES:発売
-END:VEVENT
-BEGIN:VEVENT
-UID:56ff4503acdf1dda8e06ce7cd775fb1caa107e8b@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260724T180000
-DTEND;TZID=Asia/Tokyo:20260724T200000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 126?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2ad2c7f64824501537683553e4d350f75f76a6d7@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260725T120000
-DTEND;TZID=Asia/Tokyo:20260729T235900
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n締切: 7月29
- 日(水) 23:59\n出典: 乃木坂46 公式サイト\nhttps://www.nogiza
- ka46.com/s/n46/news/detail/102130?ima=0040&pri1=202607\n\n坂道タイ
- ムズ https://sakamichi-times.com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:8505ce526d201c0455b5505fa388a3b1b173556d@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260725T120000
-DTEND;TZID=Asia/Tokyo:20260725T140000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブチケット受付）
-DESCRIPTION:ライブチケット受付 / 櫻坂46\n出典: 櫻坂46 
- 公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=
- 0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:「Sakurazaka46 ARENA TOUR 2026 -What’s loneso の受付
- 期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:1020d034b4843bb177ee105a2d6981f57c4fb17f@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260725T120000
-DTEND;TZID=Asia/Tokyo:20260725T140000
-SUMMARY:[日向坂46] ひなたフェス2026（ライブチケット受
- 付）
-DESCRIPTION:ライブチケット受付 / 日向坂46\n出典: 日向
- 坂46 公式サイト\nhttps://www.hinatazaka46.com/s/official/news/det
- ail/E00868?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/c
- alendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/E00868?ima=0000
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:ひなたフェス2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9d927d628582f29cad8e172a931b483048a18a0b@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260725T160000
-DTEND;TZID=Asia/Tokyo:20260725T180000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102126?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:9da266173f06146f0948dcb36f2b4432ddc49fc1@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260725T170000
-DTEND;TZID=Asia/Tokyo:20260725T190000
-SUMMARY:[日向坂46] 三期生LIVE（ライブチケット受付）
-DESCRIPTION:ライブチケット受付 / 日向坂46\n出典: 日向
- 坂46 公式サイト\nhttps://www.hinatazaka46.com/s/official/news/det
- ail/G00227?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/c
- alendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00227?ima=0000
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:三期生LIVE の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:b061aa0b4ab65352814efd1c6e0f2a2f7fac2309@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;VALUE=DATE:20260726
-DTEND;VALUE=DATE:20260727
-SUMMARY:[乃木坂46] 乃木坂工事中（配信）
-DESCRIPTION:配信 / 乃木坂46\n出典: 乃木坂46 公式サイト\n
- https://www.nogizaka46.com/s/n46/news/detail/102133?ima=0040&pri1=20260
- 7\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102133?ima=0040&pri1=2
- 02607
-CATEGORIES:配信
-END:VEVENT
-BEGIN:VEVENT
-UID:1427e11b989018bd74efc8acc6ffcccd57578bbc@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260726T150000
-DTEND;TZID=Asia/Tokyo:20260726T170000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102126?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102126?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:e3d18a77346c4efc030fa4e444c48019c3aa79fc@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260727T110000
-DTEND;TZID=Asia/Tokyo:20260804T235900
-SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブチケ
- ット受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n締切: 8月4日
- (火) 23:59\n出典: 乃木坂46 公式サイト\nhttps://www.nogizaka4
- 6.com/s/n46/news/detail/102131?ima=0040&pri1=202607\n\n坂道タイム
- ズ https://sakamichi-times.com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:春よ来い、マジで来い の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:b701c92950782a74af4a8d6c972d0c99725aa5ea@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260728T120000
 DTEND;TZID=Asia/Tokyo:20260728T140000
 SUMMARY:[櫻坂46] MUSIC EXPO LIVE 2026 in TAIPEI（ライブチケッ
@@ -199,21 +27,8 @@ DESCRIPTION:MUSIC EXPO LIVE 2026 in TAIPEI の受付期間です
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f8c9e6edab49c1cfe0e3bc543af645b9557baef2@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260728T170000
-DTEND;TZID=Asia/Tokyo:20260728T190000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:14ae22549a5c547e1d382b2bdba0d6b27daf2f42@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260728T210000
 DTEND;TZID=Asia/Tokyo:20260728T230000
 SUMMARY:[櫻坂46] LIVE Blu-ray&DVD『5th YEAR ANNIVERSARY LIVE a（ラ
@@ -232,7 +47,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d50b5052402b6db1b59b242309301436195156fc@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260729T140000
 DTEND;TZID=Asia/Tokyo:20260730T140000
 SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
@@ -250,21 +65,8 @@ DESCRIPTION:Lonesome rabbit / What's “KAZOKU”? の受付期間です
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7c656a330f30cb73439e7e68d657411b0300b3e4@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260729T170000
-DTEND;TZID=Asia/Tokyo:20260729T190000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:611b6a99e31744c153d650a6cf235fbf92723ae4@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260729T180000
 DTEND;TZID=Asia/Tokyo:20260729T200000
 SUMMARY:[日向坂46] 三期生 LIVE（チケットトレード）
@@ -282,7 +84,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ee8009f3d6dfb0dd5ceda888ad29e0293354cc07@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260730T180000
 DTEND;TZID=Asia/Tokyo:20260730T200000
 SUMMARY:[日向坂46] 三期生 LIVE（チケットトレード）
@@ -300,7 +102,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:4c132f5a0026af603f0a25ff66e75e81cc0fa348@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260731T180000
 DTEND;TZID=Asia/Tokyo:20260731T200000
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（チ
@@ -319,7 +121,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:acfe788d438bad434b2c2407e090a73304c1b8ce@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260802T080000
 DTEND;TZID=Asia/Tokyo:20260802T100000
 SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
@@ -331,28 +133,8 @@ URL:https://sakurazaka46.com/s/s46/news/detail/S00222?ima=0000
 CATEGORIES:ミート＆グリート
 END:VEVENT
 BEGIN:VEVENT
-UID:5baeb492ba3839cd090abf181025693bb42d9cf1@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;VALUE=DATE:20260804
-DTEND;VALUE=DATE:20260805
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 130?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:d7f427f3244aa2b80ddf71585f8276b0f95a1aad@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:[日向坂46] 三期生 LIVE（チケットトレード）
@@ -369,20 +151,8 @@ DESCRIPTION:三期生 LIVE の受付期間です
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ae2a6c3010f706c9d7d3c39357a0bd5ff1d5b8f1@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260805T130000
-DTEND;TZID=Asia/Tokyo:20260805T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:b2c70887310f73fde6c0f9fba55c0547715805f1@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260805T140000
 DTEND;TZID=Asia/Tokyo:20260806T140000
 SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
@@ -400,114 +170,52 @@ DESCRIPTION:Lonesome rabbit / What's “KAZOKU”? の受付期間です
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c64202d841629d83fbd9c19157d4d0bdef69f2ba@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260806T130000
-DTEND;TZID=Asia/Tokyo:20260806T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:d4e6af80800e3ab2ce688000f5e7de7a20208b79@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260806T173000
 DTEND;TZID=Asia/Tokyo:20260806T193000
 SUMMARY:[日向坂46] 三期生 LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0087
- 0?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:Zepp Nagoya（愛知）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: Zepp Nagoya（愛
+ 知）\n出典: 日向坂46 公式サイト\nhttps://www.hinatazaka46.c
+ om/s/official/news/detail/E00870?ima=0000\n\n坂道タイムズ https:/
+ /sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00870?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
-UID:4a6aba63d92f3c2ee5a9fa098c27618fb70cd8ba@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260806T180000
-DTEND;TZID=Asia/Tokyo:20260806T200000
-SUMMARY:[乃木坂46] 乃木坂野球部の8月6日(木)みずほPayPay
- ドーム福岡出演詳細&コラボグッズ・コラボグ（ライ
- ブ・公演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102129?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102129?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:27f56f3fd708326503d91b807e58a671bf240131@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260808T160000
 DTEND;TZID=Asia/Tokyo:20260808T180000
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（ラ
  イブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:広島グリーンアリーナ
+DESCRIPTION:ライブ・公演 / 櫻坂46\n会場: 広島グリーン
+ アリーナ\n出典: 櫻坂46 公式サイト\nhttps://sakurazaka46.co
+ m/s/s46/news/detail/E00662?ima=0000\n\n坂道タイムズ https://sakam
+ ichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
-UID:96217eef2a089ebf482ecc17b0da2ff6189c4bd5@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260809T120000
-DTEND;TZID=Asia/Tokyo:20260811T235900
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n締切: 8月11
- 日(火) 23:59\n出典: 乃木坂46 公式サイト\nhttps://www.nogiza
- ka46.com/s/n46/news/detail/102130?ima=0040&pri1=202607\n\n坂道タイ
- ムズ https://sakamichi-times.com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:6a0accebcfb6eea8ddcd885f4d44d4a08f729725@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260809T160000
 DTEND;TZID=Asia/Tokyo:20260809T180000
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（ラ
  イブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:広島グリーンアリーナ
+DESCRIPTION:ライブ・公演 / 櫻坂46\n会場: 広島グリーン
+ アリーナ\n出典: 櫻坂46 公式サイト\nhttps://sakurazaka46.co
+ m/s/s46/news/detail/E00662?ima=0000\n\n坂道タイムズ https://sakam
+ ichi-times.com/calendar/
 URL:https://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
-UID:dc8655a6b279ba79fdf1eb6ba86a0dbd4204b700@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260811T235900
-DTEND;TZID=Asia/Tokyo:20260812T015900
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
- ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
- 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 130?ima=0040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.
- com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:真夏の全国ツアー2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:2a23b34b1cfbbf6d951d72d7f2663b36cfbbe79e@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260813T140000
 DTEND;TZID=Asia/Tokyo:20260814T140000
 SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
@@ -525,74 +233,8 @@ DESCRIPTION:Lonesome rabbit / What's “KAZOKU”? の受付期間です
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:38b9960b2e1f9b827e8ecf364182d3e8e4992439@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260815T130000
-DTEND;TZID=Asia/Tokyo:20260815T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:83f4f4dddf36ea9037d8bfe3af748f470b9527f5@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260816T130000
-DTEND;TZID=Asia/Tokyo:20260816T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:9742a55cf882307f07355c493c45deb53ec830f3@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260818T130000
-DTEND;TZID=Asia/Tokyo:20260818T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:6afa70bab89cae32ba058428f176b2d2a5e9acc8@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260820T153000
-DTEND;TZID=Asia/Tokyo:20260820T173000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102130?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:8845a17ef038ae1f9bc745ac580b1b4f52f00fff@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260821T153000
-DTEND;TZID=Asia/Tokyo:20260821T173000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102130?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:2564664db44d2e2a7d6fe4fb21849dc0b39e250c@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（ラ
@@ -605,7 +247,7 @@ CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:7fc8f0644108d97268508e3c3632db16b8fa53d6@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260822
 DTEND;VALUE=DATE:20260823
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（発
@@ -617,36 +259,8 @@ URL:https://sakurazaka46.com/s/s46/news/detail/E00663?ima=0000
 CATEGORIES:発売
 END:VEVENT
 BEGIN:VEVENT
-UID:dd9f3f531fa9292a4df19bc5044a7ecdc8abd271@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260822T153000
-DTEND;TZID=Asia/Tokyo:20260822T173000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102130?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:47824d621a081c6e73234e78a9350dbe07ece10d@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260822T160000
-DTEND;TZID=Asia/Tokyo:20260822T180000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:a5079f1487140d13b9d301a5186c1709d7e8edf0@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
 SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（ラ
@@ -658,98 +272,8 @@ URL:https://sakurazaka46.com/s/s46/news/detail/E00663?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
-UID:1d6c4a646522ae1b25a3a7c545b100f8ef84ad91@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260823T130000
-DTEND;TZID=Asia/Tokyo:20260823T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:d06de09794b521a89cd7516a4b18f3f9373fd851@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260823T153000
-DTEND;TZID=Asia/Tokyo:20260823T173000
-SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
- ）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102130?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:b35a0b01f7f3e0cc82625dcd357269a1f3469de5@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260823T160000
-DTEND;TZID=Asia/Tokyo:20260823T180000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:e44516831c77135f984b246baff2fb7cd2552b83@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260829T160000
-DTEND;TZID=Asia/Tokyo:20260829T180000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:0da1aee7454259f12bc95c3fc397457c62994d1d@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260830T160000
-DTEND;TZID=Asia/Tokyo:20260830T180000
-SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
- ライブ・公演）
-DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000\n\n
- 坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:53bbe5225221db917e44a3cafd5997c08f7c31f5@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260905T143000
-DTEND;TZID=Asia/Tokyo:20260905T163000
-SUMMARY:[日向坂46] ひなたフェス2026（フェス出演）
-DESCRIPTION:フェス出演 / 日向坂46\n出典: 日向坂46 公式
- サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00868?i
- ma=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/E00868?ima=0000
-CATEGORIES:フェス出演
-END:VEVENT
-BEGIN:VEVENT
-UID:e95582d5cadf1ecec2704d6f966db03bb0360ce3@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260906T143000
-DTEND;TZID=Asia/Tokyo:20260906T163000
-SUMMARY:[日向坂46] ひなたフェス2026（フェス出演）
-DESCRIPTION:フェス出演 / 日向坂46\n出典: 日向坂46 公式
- サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00868?i
- ma=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/E00868?ima=0000
-CATEGORIES:フェス出演
-END:VEVENT
-BEGIN:VEVENT
 UID:1126505d4bc6e04a68581a2cfca987cac3e353c6@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:[日向坂46] ひなくり2026（ライブチケット受付）
@@ -767,7 +291,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:20703691367954f08877b92534ff81056f996299@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:[櫻坂46] LIVE Blu-ray&DVD『5th YEAR ANNIVERSARY LIVE a（Blu
@@ -779,191 +303,100 @@ URL:https://sakurazaka46.com/s/s46/news/detail/R00604?ima=0000
 CATEGORIES:Blu-ray・DVD発売
 END:VEVENT
 BEGIN:VEVENT
-UID:6270ba2350be84dd06939d905a3f79a9e9046947@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20261028T133000
-DTEND;TZID=Asia/Tokyo:20261028T153000
-SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
- 演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102131?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:a8d2a7b5e157466d37abf1ea609d7733ba52da79@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20261028T183000
-DTEND;TZID=Asia/Tokyo:20261028T203000
-SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
- 演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102131?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:7b058097addefc08e15efd9169b6beb433fdd128@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20261029T183000
-DTEND;TZID=Asia/Tokyo:20261029T203000
-SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
- 演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102131?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:9206e539a4850511189d1a3f1774ce1082aa67cc@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20261030T133000
-DTEND;TZID=Asia/Tokyo:20261030T153000
-SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
- 演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102131?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:38a6c94dc9699bea44f92837d9f0c32429d68bc0@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20261031T130000
-DTEND;TZID=Asia/Tokyo:20261031T150000
-SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
- 演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102131?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:a26d295906ee3953be670f72bcc2fe566acc683d@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20261031T180000
-DTEND;TZID=Asia/Tokyo:20261031T200000
-SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
- 演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102131?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:4b5133b2dc8c9c219080b98048c18b230a27d38b@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20261101T130000
-DTEND;TZID=Asia/Tokyo:20261101T150000
-SUMMARY:[乃木坂46] 春よ来い、マジで来い（ライブ・公
- 演）
-DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102131?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
- dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=2
- 02607
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:ea9366ea2e75d6835601d5faed7ef582a12bfb15@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261122T160000
 DTEND;TZID=Asia/Tokyo:20261122T180000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:神戸ワールド記念ホール（兵庫）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 神戸ワール
+ ド記念ホール（兵庫）\n出典: 日向坂46 公式サイト\nht
+ tps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:849f1ebb3a9dfe3053d899803eac1a5435b13e46@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:神戸ワールド記念ホール（兵庫）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 神戸ワール
+ ド記念ホール（兵庫）\n出典: 日向坂46 公式サイト\nht
+ tps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:2af3c9baf6abc6d3e070328439f87cab776169e6@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261209T163000
 DTEND;TZID=Asia/Tokyo:20261209T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:国立代々木競技場 第一体育館（東京）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 国立代々木
+ 競技場 第一体育館（東京）\n出典: 日向坂46 公式サイ
+ ト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:9746ea0e2a586c489adf2ff7b556c0babf68c3e9@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261210T163000
 DTEND;TZID=Asia/Tokyo:20261210T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:国立代々木競技場 第一体育館（東京）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 国立代々木
+ 競技場 第一体育館（東京）\n出典: 日向坂46 公式サイ
+ ト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:8536509dd43fa00f494515ccef81e7c79d5a467f@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261211T163000
 DTEND;TZID=Asia/Tokyo:20261211T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:国立代々木競技場 第一体育館（東京）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 国立代々木
+ 競技場 第一体育館（東京）\n出典: 日向坂46 公式サイ
+ ト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:50a0e7a4f9bfaf2659262e970e676ead6f7149c1@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261222T163000
 DTEND;TZID=Asia/Tokyo:20261222T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:クロコくんホール（愛知）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: クロコくん
+ ホール（愛知）\n出典: 日向坂46 公式サイト\nhttps://www
+ .hinatazaka46.com/s/official/news/detail/E00869?ima=0000\n\n坂道タ
+ イムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:50c06796fce91c29c20c2788215c9c6ec64d6eb4@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261223T163000
 DTEND;TZID=Asia/Tokyo:20261223T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:クロコくんホール（愛知）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: クロコくん
+ ホール（愛知）\n出典: 日向坂46 公式サイト\nhttps://www
+ .hinatazaka46.com/s/official/news/detail/E00869?ima=0000\n\n坂道タ
+ イムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT

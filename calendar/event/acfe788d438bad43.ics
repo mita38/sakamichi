@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:acfe788d438bad434b2c2407e090a73304c1b8ce@sakamichi-times.com
+DTSTAMP:20260730T130703Z
+DTSTART;TZID=Asia/Tokyo:20260802T080000
+DTEND;TZID=Asia/Tokyo:20260802T100000
+SUMMARY:[櫻坂46] Lonesome rabbit / What's “KAZOKU”?（ミート
+ ＆グリート）
+DESCRIPTION:ミート＆グリート / 櫻坂46\n出典: 櫻坂46 公
+ 式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/S00222?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/S00222?ima=0000
+CATEGORIES:ミート＆グリート
+END:VEVENT
+END:VCALENDAR

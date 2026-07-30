@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:2564664db44d2e2a7d6fe4fb21849dc0b39e250c@sakamichi-times.com
+DTSTAMP:20260730T130703Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:[櫻坂46] Sakurazaka46 ARENA TOUR 2026 -What’s lonesom（ラ
+ イブ・公演）
+DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
+ イト\nhttps://sakurazaka46.com/s/s46/news/detail/E00663?ima=0000\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/E00663?ima=0000
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR

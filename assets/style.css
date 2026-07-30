@@ -720,6 +720,27 @@ h3 { font-size: 17px; line-height: 1.55; margin: 0 0 8px; }
 .ev-left { font-size: 11.5px; font-weight: 800; color: var(--fg-faint); }
 .ev-left.urgent { color: #fff; background: #e11d48; border-radius: 999px; padding: 1px 9px; }
 
+.ev-venue {
+  margin: 0 0 8px; font-size: 13px; font-weight: 700; color: var(--fg-mute);
+  display: flex; align-items: baseline; gap: 8px; flex-wrap: wrap;
+}
+.ev-cap-venue {
+  font-size: 10px; font-weight: 800; color: var(--fg-mute);
+  background: var(--bg-soft); border-radius: 5px; padding: 1px 8px;
+}
+
+.ev-add {
+  display: inline-block; font-weight: 800; color: #fff;
+  background: linear-gradient(135deg, var(--kc), color-mix(in srgb, var(--kc) 58%, #fff));
+  border-radius: 999px; padding: 6px 15px;
+  transition: transform .16s var(--ease), box-shadow .16s var(--ease);
+}
+.ev-add:hover {
+  text-decoration: none; transform: translateY(-2px);
+  box-shadow: 0 4px 12px color-mix(in srgb, var(--kc) 45%, transparent);
+}
+.ev-actions { align-items: center; }
+
 .filter-row { display: flex; flex-wrap: wrap; gap: 8px; }
 .chk {
   display: inline-flex; align-items: center; gap: 6px;

@@ -9,45 +9,8 @@ X-WR-CALDESC:日向坂46 予定（坂道タイムズ）
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:1020d034b4843bb177ee105a2d6981f57c4fb17f@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260725T120000
-DTEND;TZID=Asia/Tokyo:20260725T140000
-SUMMARY:[日向坂46] ひなたフェス2026（ライブチケット受
- 付）
-DESCRIPTION:ライブチケット受付 / 日向坂46\n出典: 日向
- 坂46 公式サイト\nhttps://www.hinatazaka46.com/s/official/news/det
- ail/E00868?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/c
- alendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/E00868?ima=0000
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:ひなたフェス2026 の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:9da266173f06146f0948dcb36f2b4432ddc49fc1@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260725T170000
-DTEND;TZID=Asia/Tokyo:20260725T190000
-SUMMARY:[日向坂46] 三期生LIVE（ライブチケット受付）
-DESCRIPTION:ライブチケット受付 / 日向坂46\n出典: 日向
- 坂46 公式サイト\nhttps://www.hinatazaka46.com/s/official/news/det
- ail/G00227?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/c
- alendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00227?ima=0000
-CATEGORIES:ライブチケット受付
-BEGIN:VALARM
-TRIGGER:-P1D
-ACTION:DISPLAY
-DESCRIPTION:三期生LIVE の受付期間です
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:611b6a99e31744c153d650a6cf235fbf92723ae4@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260729T180000
 DTEND;TZID=Asia/Tokyo:20260729T200000
 SUMMARY:[日向坂46] 三期生 LIVE（チケットトレード）
@@ -65,7 +28,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ee8009f3d6dfb0dd5ceda888ad29e0293354cc07@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260730T180000
 DTEND;TZID=Asia/Tokyo:20260730T200000
 SUMMARY:[日向坂46] 三期生 LIVE（チケットトレード）
@@ -83,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:d7f427f3244aa2b80ddf71585f8276b0f95a1aad@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
 SUMMARY:[日向坂46] 三期生 LIVE（チケットトレード）
@@ -100,116 +63,22 @@ DESCRIPTION:三期生 LIVE の受付期間です
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:ae2a6c3010f706c9d7d3c39357a0bd5ff1d5b8f1@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260805T130000
-DTEND;TZID=Asia/Tokyo:20260805T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:c64202d841629d83fbd9c19157d4d0bdef69f2ba@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260806T130000
-DTEND;TZID=Asia/Tokyo:20260806T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
 UID:d4e6af80800e3ab2ce688000f5e7de7a20208b79@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20260806T173000
 DTEND;TZID=Asia/Tokyo:20260806T193000
 SUMMARY:[日向坂46] 三期生 LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0087
- 0?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:Zepp Nagoya（愛知）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: Zepp Nagoya（愛
+ 知）\n出典: 日向坂46 公式サイト\nhttps://www.hinatazaka46.c
+ om/s/official/news/detail/E00870?ima=0000\n\n坂道タイムズ https:/
+ /sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00870?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
-UID:38b9960b2e1f9b827e8ecf364182d3e8e4992439@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260815T130000
-DTEND;TZID=Asia/Tokyo:20260815T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:83f4f4dddf36ea9037d8bfe3af748f470b9527f5@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260816T130000
-DTEND;TZID=Asia/Tokyo:20260816T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:9742a55cf882307f07355c493c45deb53ec830f3@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260818T130000
-DTEND;TZID=Asia/Tokyo:20260818T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:1d6c4a646522ae1b25a3a7c545b100f8ef84ad91@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260823T130000
-DTEND;TZID=Asia/Tokyo:20260823T150000
-SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0022
- 8?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000
-CATEGORIES:ライブ・公演
-END:VEVENT
-BEGIN:VEVENT
-UID:53bbe5225221db917e44a3cafd5997c08f7c31f5@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260905T143000
-DTEND;TZID=Asia/Tokyo:20260905T163000
-SUMMARY:[日向坂46] ひなたフェス2026（フェス出演）
-DESCRIPTION:フェス出演 / 日向坂46\n出典: 日向坂46 公式
- サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00868?i
- ma=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/E00868?ima=0000
-CATEGORIES:フェス出演
-END:VEVENT
-BEGIN:VEVENT
-UID:e95582d5cadf1ecec2704d6f966db03bb0360ce3@sakamichi-times.com
-DTSTAMP:20260730T113532Z
-DTSTART;TZID=Asia/Tokyo:20260906T143000
-DTEND;TZID=Asia/Tokyo:20260906T163000
-SUMMARY:[日向坂46] ひなたフェス2026（フェス出演）
-DESCRIPTION:フェス出演 / 日向坂46\n出典: 日向坂46 公式
- サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00868?i
- ma=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/E00868?ima=0000
-CATEGORIES:フェス出演
-END:VEVENT
-BEGIN:VEVENT
 UID:1126505d4bc6e04a68581a2cfca987cac3e353c6@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20260908
 DTEND;VALUE=DATE:20260909
 SUMMARY:[日向坂46] ひなくり2026（ライブチケット受付）
@@ -227,85 +96,99 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ea9366ea2e75d6835601d5faed7ef582a12bfb15@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261122T160000
 DTEND;TZID=Asia/Tokyo:20261122T180000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:神戸ワールド記念ホール（兵庫）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 神戸ワール
+ ド記念ホール（兵庫）\n出典: 日向坂46 公式サイト\nht
+ tps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:849f1ebb3a9dfe3053d899803eac1a5435b13e46@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:神戸ワールド記念ホール（兵庫）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 神戸ワール
+ ド記念ホール（兵庫）\n出典: 日向坂46 公式サイト\nht
+ tps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:2af3c9baf6abc6d3e070328439f87cab776169e6@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261209T163000
 DTEND;TZID=Asia/Tokyo:20261209T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:国立代々木競技場 第一体育館（東京）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 国立代々木
+ 競技場 第一体育館（東京）\n出典: 日向坂46 公式サイ
+ ト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:9746ea0e2a586c489adf2ff7b556c0babf68c3e9@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261210T163000
 DTEND;TZID=Asia/Tokyo:20261210T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:国立代々木競技場 第一体育館（東京）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 国立代々木
+ 競技場 第一体育館（東京）\n出典: 日向坂46 公式サイ
+ ト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:8536509dd43fa00f494515ccef81e7c79d5a467f@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261211T163000
 DTEND;TZID=Asia/Tokyo:20261211T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:国立代々木競技場 第一体育館（東京）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: 国立代々木
+ 競技場 第一体育館（東京）\n出典: 日向坂46 公式サイ
+ ト\nhttps://www.hinatazaka46.com/s/official/news/detail/E00869?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:50a0e7a4f9bfaf2659262e970e676ead6f7149c1@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261222T163000
 DTEND;TZID=Asia/Tokyo:20261222T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:クロコくんホール（愛知）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: クロコくん
+ ホール（愛知）\n出典: 日向坂46 公式サイト\nhttps://www
+ .hinatazaka46.com/s/official/news/detail/E00869?ima=0000\n\n坂道タ
+ イムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 BEGIN:VEVENT
 UID:50c06796fce91c29c20c2788215c9c6ec64d6eb4@sakamichi-times.com
-DTSTAMP:20260730T113532Z
+DTSTAMP:20260730T130703Z
 DTSTART;TZID=Asia/Tokyo:20261223T163000
 DTEND;TZID=Asia/Tokyo:20261223T183000
 SUMMARY:[日向坂46] ひなくり2026（ライブ・公演）
-DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
- 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0086
- 9?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+LOCATION:クロコくんホール（愛知）
+DESCRIPTION:ライブ・公演 / 日向坂46\n会場: クロコくん
+ ホール（愛知）\n出典: 日向坂46 公式サイト\nhttps://www
+ .hinatazaka46.com/s/official/news/detail/E00869?ima=0000\n\n坂道タ
+ イムズ https://sakamichi-times.com/calendar/
 URL:https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
