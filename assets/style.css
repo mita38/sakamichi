@@ -203,11 +203,27 @@ img { max-width: 100%; height: auto; }
   font-size: 12px; font-weight: 800; color: var(--fg-mute);
   transition: all .18s var(--ease);
 }
-.sns a:hover {
-  background: linear-gradient(135deg, var(--nogi), var(--sakura));
-  border-color: transparent; color: #fff; text-decoration: none;
-  transform: translateY(-2px);
+.sns a svg { width: 16px; height: 16px; display: block; }
+.sns a:hover { border-color: transparent; color: #fff; text-decoration: none; transform: translateY(-2px); }
+/* 各サービスのブランドカラーでホバーさせる */
+.sns li:nth-child(n) a:hover { background: var(--fg); }
+.sns a[title^="X"]:hover { background: #000; }
+.sns a[title="Instagram"]:hover {
+  background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
 }
+.sns a[title="Threads"]:hover { background: #000; }
+.sns a[title="YouTube"]:hover { background: #ff0000; }
+.sns a[title="TikTok"]:hover { background: #000; }
+.sns a[title="note"]:hover { background: #41c9b4; }
+@media (prefers-color-scheme: dark) {
+  .sns a[title^="X"]:hover, .sns a[title="Threads"]:hover,
+  .sns a[title="TikTok"]:hover { background: #fff; color: #000; }
+}
+
+.sns-links .sns-item { display: inline-flex; align-items: center; gap: 9px; }
+.sns-links svg { width: 15px; height: 15px; flex: none; color: var(--fg-mute); }
+.sns-links a:hover svg { color: var(--accent); }
+.sns-text { font-size: 12px; font-weight: 800; }
 
 .site-nav { border-top: 1px solid var(--line); overflow-x: auto; scrollbar-width: none; }
 .site-nav::-webkit-scrollbar { display: none; }
