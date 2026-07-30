@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-07-30T23:30:59+09:00",
+ "generated_at": "2026-07-31T06:30:17+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -36,40 +36,6 @@
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=202607",
    "source_label": "乃木坂46 公式サイト"
-  },
-  {
-   "uid": "d50b5052402b6db1b59b242309301436195156fc",
-   "group": "sakurazaka46",
-   "kind": "ticket",
-   "kind_label": "ミート＆グリート受付",
-   "round": "第13次",
-   "venue": null,
-   "deadline": "2026-07-30T14:00:00+09:00",
-   "ics_url": "https://sakamichi-times.com/calendar/event/d50b5052402b6db1.ics",
-   "title": "Lonesome rabbit / What's “KAZOKU”?",
-   "starts_at": "2026-07-29T14:00:00+09:00",
-   "ends_at": "2026-07-30T14:00:00+09:00",
-   "all_day": false,
-   "confidence": "high",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00223?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
-  },
-  {
-   "uid": "ee8009f3d6dfb0dd5ceda888ad29e0293354cc07",
-   "group": "hinatazaka46",
-   "kind": "ticket",
-   "kind_label": "チケットトレード",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/ee8009f3d6dfb0dd.ics",
-   "title": "三期生 LIVE",
-   "starts_at": "2026-07-30T18:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00870?ima=0000",
-   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "4c132f5a0026af603f0a25ff66e75e81cc0fa348",
