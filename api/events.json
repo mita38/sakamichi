@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-07-30T13:30:14+09:00",
+ "generated_at": "2026-07-30T17:30:21+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -71,6 +71,19 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00870?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "4c132f5a0026af603f0a25ff66e75e81cc0fa348",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "チケットトレード",
+   "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesom",
+   "starts_at": "2026-07-31T18:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "acfe788d438bad434b2c2407e090a73304c1b8ce",
@@ -177,6 +190,19 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "27f56f3fd708326503d91b807e58a671bf240131",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesom",
+   "starts_at": "2026-08-08T16:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "96217eef2a089ebf482ecc17b0da2ff6189c4bd5",
    "group": "nogizaka46",
    "kind": "ticket",
@@ -188,6 +214,19 @@
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=202607",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "6a0accebcfb6eea8ddcd885f4d44d4a08f729725",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesom",
+   "starts_at": "2026-08-09T16:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00662?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "dc8655a6b279ba79fdf1eb6ba86a0dbd4204b700",
