@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-02T23:30:17+09:00",
+ "generated_at": "2026-08-03T06:30:19+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -40,40 +40,6 @@
    "all_day": false,
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=202607",
-   "source_label": "乃木坂46 公式サイト"
-  },
-  {
-   "uid": "acfe788d438bad434b2c2407e090a73304c1b8ce",
-   "group": "sakurazaka46",
-   "kind": "event",
-   "kind_label": "ミート＆グリート",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/acfe788d438bad43.ics",
-   "title": "Lonesome rabbit / What's “KAZOKU”?",
-   "starts_at": "2026-08-02T08:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00222?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
-  },
-  {
-   "uid": "c0040a1e72fbc64f766a88e1cd45a1a85bced930",
-   "group": "nogizaka46",
-   "kind": "live",
-   "kind_label": "ライブ・公演",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/c0040a1e72fbc64f.ics",
-   "title": "真夏の全国ツアー2026 東京公演",
-   "starts_at": "2026-08-02T12:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102142?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
