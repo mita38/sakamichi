@@ -6,16 +6,16 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:8a252cb0c216c07883f7eb91187e828807804a5d@sakamichi-times.com
-DTSTAMP:20260803T083020Z
+DTSTAMP:20260803T113023Z
 DTSTART;VALUE=DATE:20260803
 DTEND;VALUE=DATE:20260804
-SUMMARY:[乃木坂46] ひとりでできるもん セカンド #7 川
- 端晃菜 配信開始!（配信）
-DESCRIPTION:配信 / 乃木坂46\n出典: 乃木坂46 公式サイト\n
- https://www.nogizaka46.com/s/n46/news/detail/102146?ima=3002&pri1=20260
- 8\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102146?ima=3002&pri1=2
+SUMMARY:[乃木坂46] 真夏の全国ツアー2026（放送・配信）
+DESCRIPTION:放送・配信 / 乃木坂46\n出典: 乃木坂46 公式
+ サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102147?ima=3002
+ &pri1=202608\n\n坂道タイムズ https://sakamichi-times.com/calendar
+ /
+URL:https://www.nogizaka46.com/s/n46/news/detail/102147?ima=3002&pri1=2
  02608
-CATEGORIES:配信
+CATEGORIES:放送・配信
 END:VEVENT
 END:VCALENDAR

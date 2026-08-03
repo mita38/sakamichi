@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-03T17:30:20+09:00",
+ "generated_at": "2026-08-03T20:30:23+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -46,18 +46,35 @@
    "uid": "8a252cb0c216c07883f7eb91187e828807804a5d",
    "group": "nogizaka46",
    "kind": "broadcast",
-   "kind_label": "配信",
+   "kind_label": "放送・配信",
    "round": null,
    "venue": null,
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/8a252cb0c216c078.ics",
-   "title": "ひとりでできるもん セカンド #7 川端晃菜 配信開始!",
+   "title": "真夏の全国ツアー2026",
    "starts_at": "2026-08-03T00:00:00+09:00",
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102146?ima=3002&pri1=202608",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102147?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "e2c94f9a80183e7c06d585033e99cc4bf3bf89e0",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/e2c94f9a80183e7c.ics",
+   "title": "ひなたフェス2026",
+   "starts_at": "2026-08-03T20:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00230?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "5baeb492ba3839cd090abf181025693bb42d9cf1",
@@ -295,6 +312,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "0ab3506ccbc1fee3a8c049c1660b1c1869217eef",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "フェス出演",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/0ab3506ccbc1fee3.ics",
+   "title": "ひなたフェス2026",
+   "starts_at": "2026-08-16T23:59:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00230?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
