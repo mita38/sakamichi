@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-03T13:30:15+09:00",
+ "generated_at": "2026-08-03T17:30:20+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -40,6 +40,23 @@
    "all_day": false,
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=202607",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "8a252cb0c216c07883f7eb91187e828807804a5d",
+   "group": "nogizaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/8a252cb0c216c078.ics",
+   "title": "ひとりでできるもん セカンド #7 川端晃菜 配信開始!",
+   "starts_at": "2026-08-03T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102146?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
