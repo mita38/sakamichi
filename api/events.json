@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-04T13:30:19+09:00",
+ "generated_at": "2026-08-04T17:30:19+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -40,6 +40,23 @@
    "all_day": false,
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=202607",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "30b307fb7f2ea7ee966cc00170d088a4b91e9e63",
+   "group": "nogizaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/30b307fb7f2ea7ee.ics",
+   "title": "「良質で文化的な最大限度の乃木坂46を営む。#11 13th YEAR BIRTHDAY",
+   "starts_at": "2026-08-04T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102150?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -92,6 +109,23 @@
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00666?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "478ab0183567f6762be8c7a929e546556c36712d",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "Zepp Haneda（東京）",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/478ab0183567f676.ics",
+   "title": "三期生LIVE",
+   "starts_at": "2026-08-05T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "d7f427f3244aa2b80ddf71585f8276b0f95a1aad",
@@ -170,12 +204,12 @@
    "venue": "Zepp Nagoya（愛知）",
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/d4e6af80800e3ab2.ics",
-   "title": "三期生 LIVE",
+   "title": "三期生LIVE",
    "starts_at": "2026-08-06T17:30:00+09:00",
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00870?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -315,6 +349,23 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
+   "uid": "c40989efd0f2ea12bc1803076ce1f16de1727b9a",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "Zepp Nagoya（愛知）",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/c40989efd0f2ea12.ics",
+   "title": "三期生LIVE",
+   "starts_at": "2026-08-15T16:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
    "uid": "83f4f4dddf36ea9037d8bfe3af748f470b9527f5",
    "group": "hinatazaka46",
    "kind": "live",
@@ -329,6 +380,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "2baafc834af52fc338f4fe385e1dca8dadf9e253",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "Zepp Osaka Bayside（大阪）",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/2baafc834af52fc3.ics",
+   "title": "三期生LIVE",
+   "starts_at": "2026-08-16T16:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -349,6 +417,23 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
+   "uid": "072148f91afc315025fdf20f434552ab7a5e496a",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "Zepp Haneda（東京）",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/072148f91afc3150.ics",
+   "title": "三期生LIVE",
+   "starts_at": "2026-08-17T17:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
    "uid": "9742a55cf882307f07355c493c45deb53ec830f3",
    "group": "hinatazaka46",
    "kind": "live",
@@ -363,6 +448,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "6cd3780f548d544d4c53c8e38108dba471f8a4ab",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "Zepp Haneda（東京）",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/6cd3780f548d544d.ics",
+   "title": "三期生LIVE",
+   "starts_at": "2026-08-18T17:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -636,6 +738,23 @@
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "7973f427b5965c40607d30a388fe7f71e8c5fff8",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "Zepp Haneda（東京）",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/7973f427b5965c40.ics",
+   "title": "三期生LIVE",
+   "starts_at": "2026-08-23T16:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "2732af37d87e9fca4b0700af9251e4de5bfa8255",
