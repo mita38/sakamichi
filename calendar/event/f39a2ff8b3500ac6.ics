@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:f39a2ff8b3500ac6fd7c3be16e95acac17f5f507@sakamichi-times.com
+DTSTAMP:20260804T113016Z
+DTSTART;TZID=Asia/Tokyo:20260804T190000
+DTEND;TZID=Asia/Tokyo:20260827T235900
+SUMMARY:[日向坂46] 三期生LIVE（オンラインイベント受付
+ ）
+DESCRIPTION:オンラインイベント受付 / 日向坂46\n締切: 8
+ 月27日(木) 23:59\n出典: 日向坂46 公式サイト\nhttps://www.h
+ inatazaka46.com/s/official/news/detail/O100289?ima=0000\n\n坂道タイ
+ ムズ https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/O100289?ima=0000
+CATEGORIES:オンラインイベント受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:三期生LIVE の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
