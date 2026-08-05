@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-05T23:30:17+09:00",
+ "generated_at": "2026-08-06T06:30:14+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -57,57 +57,6 @@
    "all_day": false,
    "confidence": "high",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/O100289?ima=0000",
-   "source_label": "日向坂46 公式サイト"
-  },
-  {
-   "uid": "478ab0183567f6762be8c7a929e546556c36712d",
-   "group": "hinatazaka46",
-   "kind": "live",
-   "kind_label": "ライブ・公演",
-   "round": null,
-   "venue": "Zepp Haneda（東京）",
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/478ab0183567f676.ics",
-   "title": "三期生LIVE",
-   "starts_at": "2026-08-05T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000",
-   "source_label": "日向坂46 公式サイト"
-  },
-  {
-   "uid": "d7f427f3244aa2b80ddf71585f8276b0f95a1aad",
-   "group": "hinatazaka46",
-   "kind": "ticket",
-   "kind_label": "チケットトレード",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/d7f427f3244aa2b8.ics",
-   "title": "三期生 LIVE",
-   "starts_at": "2026-08-05T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00870?ima=0000",
-   "source_label": "日向坂46 公式サイト"
-  },
-  {
-   "uid": "ae2a6c3010f706c9d7d3c39357a0bd5ff1d5b8f1",
-   "group": "hinatazaka46",
-   "kind": "live",
-   "kind_label": "ライブ・公演",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/ae2a6c3010f706c9.ics",
-   "title": "三期生LIVE",
-   "starts_at": "2026-08-05T13:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
