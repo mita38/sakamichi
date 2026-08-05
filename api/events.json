@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-05T17:30:22+09:00",
+ "generated_at": "2026-08-05T20:30:17+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -176,6 +176,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102129?ima=0040&pri1=202607",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "2f82c9d59257fb6b4fe5befc63e7ea66cb0a8c58",
+   "group": "nogizaka46",
+   "kind": "broadcast",
+   "kind_label": "放送・配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/2f82c9d59257fb6b.ics",
+   "title": "真夏の全国ツアー2026",
+   "starts_at": "2026-08-08T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102151?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
