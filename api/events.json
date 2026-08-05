@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-05T10:30:17+09:00",
+ "generated_at": "2026-08-05T13:30:17+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -621,6 +621,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "a3ab9f2243d44e2f9552fb1da3493133dfbda2a3",
+   "group": "hinatazaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/a3ab9f2243d44e2f.ics",
+   "title": "三期生 LIVE",
+   "starts_at": "2026-08-23T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00871?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
    "uid": "a5079f1487140d13b9d301a5186c1709d7e8edf0",
    "group": "sakurazaka46",
    "kind": "live",
@@ -738,6 +755,40 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102142?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "69832aa1dd1c35904624845b85db0c221bc906a8",
+   "group": "hinatazaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/69832aa1dd1c3590.ics",
+   "title": "三期生 LIVE",
+   "starts_at": "2026-08-26T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00871?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "f43da13f114ca4fb2a4897df0dab57b7019b19e4",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/f43da13f114ca4fb.ics",
+   "title": "三期生 LIVE",
+   "starts_at": "2026-08-26T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00871?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "e44516831c77135f984b246baff2fb7cd2552b83",
