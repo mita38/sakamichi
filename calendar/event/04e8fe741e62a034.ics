@@ -5,16 +5,16 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:96217eef2a089ebf482ecc17b0da2ff6189c4bd5@sakamichi-times.com
+UID:04e8fe741e62a0345a1daa6c149b7515ea3a4572@sakamichi-times.com
 DTSTAMP:20260806T113017Z
-DTSTART;TZID=Asia/Tokyo:20260809T120000
-DTEND;TZID=Asia/Tokyo:20260811T235900
+DTSTART;TZID=Asia/Tokyo:20260808T120000
+DTEND;TZID=Asia/Tokyo:20260808T140000
 SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブチケッ
  ト受付）
-DESCRIPTION:ライブチケット受付 / 乃木坂46\n締切: 8月11
- 日(火) 23:59\n出典: 乃木坂46 公式サイト\nhttps://www.nogiza
- ka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608\n\n坂道タイ
- ムズ https://sakamichi-times.com/calendar/
+DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
+ 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
+ 152?ima=3002&pri1=202608\n\n坂道タイムズ https://sakamichi-times.
+ com/calendar/
 URL:https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=2
  02608
 CATEGORIES:ライブチケット受付

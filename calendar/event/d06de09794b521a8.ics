@@ -6,17 +6,17 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:d06de09794b521a89cd7516a4b18f3f9373fd851@sakamichi-times.com
-DTSTAMP:20260806T083016Z
+DTSTAMP:20260806T113017Z
 DTSTART;TZID=Asia/Tokyo:20260823T153000
 DTEND;TZID=Asia/Tokyo:20260823T173000
 SUMMARY:[乃木坂46] 真夏の全国ツアー2026（ライブ・公演
  ）
 DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
- 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102130?ima=0
- 040&pri1=202607\n\n坂道タイムズ https://sakamichi-times.com/calen
+ 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102152?ima=3
+ 002&pri1=202608\n\n坂道タイムズ https://sakamichi-times.com/calen
  dar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=2
- 02607
+URL:https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=2
+ 02608
 CATEGORIES:ライブ・公演
 END:VEVENT
 END:VCALENDAR

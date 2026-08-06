@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-06T17:30:16+09:00",
+ "generated_at": "2026-08-06T20:30:17+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -145,6 +145,40 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "a504707669dd4001d6ea45179294925b2fca87e8",
+   "group": "nogizaka46",
+   "kind": "release",
+   "kind_label": "発売",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/a504707669dd4001.ics",
+   "title": "真夏の全国ツアー2026",
+   "starts_at": "2026-08-08T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "04e8fe741e62a0345a1daa6c149b7515ea3a4572",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/04e8fe741e62a034.ics",
+   "title": "真夏の全国ツアー2026",
+   "starts_at": "2026-08-08T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "27f56f3fd708326503d91b807e58a671bf240131",
    "group": "sakurazaka46",
    "kind": "live",
@@ -175,7 +209,7 @@
    "ends_at": "2026-08-11T23:59:00+09:00",
    "all_day": false,
    "confidence": "high",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=202607",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -413,7 +447,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=202607",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -447,7 +481,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=202607",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -532,7 +566,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=202607",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -651,7 +685,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102130?ima=0040&pri1=202607",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -1207,12 +1241,12 @@
    "venue": null,
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/512e57b8f54c7833.ics",
-   "title": "京都国際マンガアニメフェア",
+   "title": "真夏の全国ツアー2026",
    "starts_at": "2027-01-29T00:00:00+09:00",
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102155?ima=3002&pri1=202608",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   }
  ]
