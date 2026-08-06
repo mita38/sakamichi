@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-06T20:30:17+09:00",
+ "generated_at": "2026-08-06T23:30:17+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -126,6 +126,23 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102129?ima=0040&pri1=202607",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "6f982756088a6b5a11a968e04ee4347e3cd38aa6",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "チケットトレード",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/6f982756088a6b5a.ics",
+   "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesom",
+   "starts_at": "2026-08-07T18:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00667?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "2f82c9d59257fb6b4fe5befc63e7ea66cb0a8c58",
@@ -298,6 +315,23 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
+   "uid": "be9fc810d67cbcaf66afa180ba2809b7fcd83988",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "LaLa arena TOKYO-BAY（千葉）",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/be9fc810d67cbcaf.ics",
+   "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesom",
+   "starts_at": "2026-08-15T16:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00667?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "c40989efd0f2ea12bc1803076ce1f16de1727b9a",
    "group": "hinatazaka46",
    "kind": "live",
@@ -330,6 +364,23 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00228?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "78d14a288e449a80e5ad6e11d70b8cdccb91405b",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "LaLa arena TOKYO-BAY（千葉）",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/78d14a288e449a80.ics",
+   "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesom",
+   "starts_at": "2026-08-16T16:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00667?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "2baafc834af52fc338f4fe385e1dca8dadf9e253",
