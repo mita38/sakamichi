@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-06T10:30:17+09:00",
+ "generated_at": "2026-08-06T13:30:24+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -791,6 +791,23 @@
    "source_label": "櫻坂46 公式サイト"
   },
   {
+   "uid": "cd398923bdc275a73c71249f320cd2453f444b07",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/cd398923bdc275a7.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-09-05T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00665?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "20291789293976f23ce0eba8513bcb06c1228f5a",
    "group": "sakurazaka46",
    "kind": "ticket",
@@ -1029,6 +1046,40 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "7ea8feaafe3aa9a7fa449429722023ce12f11474",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "ZOZOマリンスタジアム",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/7ea8feaafe3aa9a7.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-11-14T15:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00665?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "26e82da056ebcbcdfd6be564a431706d67a3b4a1",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "ZOZOマリンスタジアム",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/26e82da056ebcbcd.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-11-15T15:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00665?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "ea9366ea2e75d6835601d5faed7ef582a12bfb15",
    "group": "hinatazaka46",
    "kind": "live",
@@ -1146,6 +1197,23 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "512e57b8f54c78337b26f019eb823f3cb1e1604f",
+   "group": "nogizaka46",
+   "kind": "release",
+   "kind_label": "発売",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/512e57b8f54c7833.ics",
+   "title": "京都国際マンガアニメフェア",
+   "starts_at": "2027-01-29T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102155?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
   }
  ]
 }
