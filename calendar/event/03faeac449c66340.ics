@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:03faeac449c663409fc0d7bf8fffe0c08a2b1f67@sakamichi-times.com
+DTSTAMP:20260807T213041Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:[乃木坂46] MTV VMAJ 2026（チケット・受付）
+DESCRIPTION:チケット・受付 / 乃木坂46\n出典: 乃木坂46 
+ 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102153?im
+ a=3002&pri1=202608\n\n坂道タイムズ https://sakamichi-times.com/ca
+ lendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102153?ima=3002&pri1=2
+ 02608
+CATEGORIES:チケット・受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:MTV VMAJ 2026 の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

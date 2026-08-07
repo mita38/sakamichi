@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-07T23:31:19+09:00",
+ "generated_at": "2026-08-08T06:30:41+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -60,21 +60,21 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
-   "uid": "6f982756088a6b5a11a968e04ee4347e3cd38aa6",
-   "group": "sakurazaka46",
+   "uid": "e80eea56854edc9cf26320d5f06997b1d0cc1b4c",
+   "group": "nogizaka46",
    "kind": "ticket",
-   "kind_label": "チケットトレード",
+   "kind_label": "ライブチケット受付",
    "round": null,
    "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/6f982756088a6b5a.ics",
-   "title": "Sakurazaka46 ARENA TOUR 2026 -What’s lonesom",
+   "deadline": "2026-08-16T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/e80eea56854edc9c.ics",
+   "title": "MTV VMAJ 2026",
    "starts_at": "2026-08-07T18:00:00+09:00",
-   "ends_at": null,
+   "ends_at": "2026-08-16T23:59:00+09:00",
    "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00667?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102158?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "2f82c9d59257fb6b4fe5befc63e7ea66cb0a8c58",
@@ -328,7 +328,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00876?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -927,6 +927,23 @@
    "source_label": "櫻坂46 公式サイト"
   },
   {
+   "uid": "99d9c87e65927be23c9972c7663afc90b4579595",
+   "group": "hinatazaka46",
+   "kind": "release",
+   "kind_label": "Blu-ray・DVD発売",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/99d9c87e65927be2.ics",
+   "title": "イチャイチャ虫",
+   "starts_at": "2026-09-30T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00563?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
    "uid": "3a76a8193167ca9c4427812136eb8f45188192a7",
    "group": "sakurazaka46",
    "kind": "live",
@@ -975,6 +992,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102131?ima=0040&pri1=202607",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "03faeac449c663409fc0d7bf8fffe0c08a2b1f67",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "チケット・受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/03faeac449c66340.ics",
+   "title": "MTV VMAJ 2026",
+   "starts_at": "2026-10-29T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102153?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {

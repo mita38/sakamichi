@@ -6,16 +6,16 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:2baafc834af52fc338f4fe385e1dca8dadf9e253@sakamichi-times.com
-DTSTAMP:20260807T143119Z
+DTSTAMP:20260807T213041Z
 DTSTART;TZID=Asia/Tokyo:20260816T163000
 DTEND;TZID=Asia/Tokyo:20260816T183000
 SUMMARY:[日向坂46] 三期生LIVE（ライブ・公演）
 LOCATION:Zepp Osaka Bayside（大阪）
 DESCRIPTION:ライブ・公演 / 日向坂46\n会場: Zepp Osaka Baysid
  e（大阪）\n出典: 日向坂46 公式サイト\nhttps://www.hinataz
- aka46.com/s/official/news/detail/R00562?ima=0000\n\n坂道タイムズ 
+ aka46.com/s/official/news/detail/E00876?ima=0000\n\n坂道タイムズ 
  https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/R00562?ima=0000
+URL:https://www.hinatazaka46.com/s/official/news/detail/E00876?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 END:VCALENDAR
