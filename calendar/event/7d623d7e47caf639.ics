@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:7d623d7e47caf6395098077f36d99ea94f0c736d@sakamichi-times.com
+DTSTAMP:20260809T043022Z
+DTSTART;TZID=Asia/Tokyo:20260809T120000
+DTEND;TZID=Asia/Tokyo:20260809T140000
+SUMMARY:[乃木坂46] 42ndSGアンダーライブ（ライブチケッ
+ ト受付）
+DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
+ 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
+ 164?ima=3002&pri1=202608\n\n坂道タイムズ https://sakamichi-times.
+ com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102164?ima=3002&pri1=2
+ 02608
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:42ndSGアンダーライブ の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

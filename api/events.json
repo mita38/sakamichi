@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-09T10:30:18+09:00",
+ "generated_at": "2026-08-09T13:30:22+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -91,6 +91,40 @@
    "all_day": false,
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102152?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "e23ec01cec4a7ce5a2e78957b2beb51bbda89eae",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-08-16T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/e23ec01cec4a7ce5.ics",
+   "title": "42ndSGアンダーライブ",
+   "starts_at": "2026-08-09T12:00:00+09:00",
+   "ends_at": "2026-08-16T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102164?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "7d623d7e47caf6395098077f36d99ea94f0c736d",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/7d623d7e47caf639.ics",
+   "title": "42ndSGアンダーライブ",
+   "starts_at": "2026-08-09T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102164?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -380,6 +414,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102142?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "8bc309defcd0132c70ed120fc8688440d2d894b7",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/8bc309defcd0132c.ics",
+   "title": "42ndSGアンダーライブ",
+   "starts_at": "2026-08-21T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102164?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -859,6 +910,23 @@
    "source_label": "櫻坂46 公式サイト"
   },
   {
+   "uid": "d03916a321844e3a8c0633e778c5c42c5f39dea0",
+   "group": "nogizaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "東京体育館",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/d03916a321844e3a.ics",
+   "title": "42ndSGアンダーライブ",
+   "starts_at": "2026-09-29T17:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102164?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "99d9c87e65927be23c9972c7663afc90b4579595",
    "group": "hinatazaka46",
    "kind": "release",
@@ -891,6 +959,23 @@
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00666?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "066dd45ef7742e1140feaf0795a7703c2033f10f",
+   "group": "nogizaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "東京体育館",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/066dd45ef7742e11.ics",
+   "title": "42ndSGアンダーライブ",
+   "starts_at": "2026-09-30T17:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102164?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "6270ba2350be84dd06939d905a3f79a9e9046947",
