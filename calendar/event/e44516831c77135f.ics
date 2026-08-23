@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:e44516831c77135f984b246baff2fb7cd2552b83@sakamichi-times.com
-DTSTAMP:20260809T213020Z
+DTSTAMP:20260823T043110Z
 DTSTART;TZID=Asia/Tokyo:20260829T160000
 DTEND;TZID=Asia/Tokyo:20260829T180000
 SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
@@ -14,9 +14,9 @@ SUMMARY:[櫻坂46] 「Sakurazaka46 ARENA TOUR 2026 -What’s loneso（
 LOCATION:あなぶきアリーナ香川
 DESCRIPTION:ライブ・公演 / 櫻坂46\n会場: あなぶきアリ
  ーナ香川\n出典: 櫻坂46 公式サイト\nhttps://sakurazaka46.co
- m/s/s46/news/detail/M02152?ima=0000\n\n坂道タイムズ https://sakam
+ m/s/s46/news/detail/E00674?ima=0000\n\n坂道タイムズ https://sakam
  ichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/M02152?ima=0000
+URL:https://sakurazaka46.com/s/s46/news/detail/E00674?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 END:VCALENDAR

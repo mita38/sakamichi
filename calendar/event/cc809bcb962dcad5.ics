@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:cc809bcb962dcad510beb6efaef830fdba9bf6a9@sakamichi-times.com
+DTSTAMP:20260823T043110Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:[乃木坂46] 乃木坂46 6期生全国ツアー2026（ライ
+ ブチケット受付）
+DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
+ 坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
+ 198?ima=3002&pri1=202608\n\n坂道タイムズ https://sakamichi-times.
+ com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102198?ima=3002&pri1=2
+ 02608
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:乃木坂46 6期生全国ツアー2026 の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
