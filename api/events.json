@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-23T13:31:10+09:00",
+ "generated_at": "2026-08-23T17:30:56+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -58,6 +58,23 @@
    "confidence": "high",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00666?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "00a064ae580357e99f8cb71a4fcfafc55e12a9fe",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-09-01T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/00a064ae580357e9.ics",
+   "title": "18th Single ひなた坂46 LIVE",
+   "starts_at": "2026-08-20T22:00:00+09:00",
+   "ends_at": "2026-09-01T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "a3ab9f2243d44e2f9552fb1da3493133dfbda2a3",
@@ -298,6 +315,23 @@
    "source_label": "櫻坂46 公式サイト"
   },
   {
+   "uid": "f3c0a6916ee21fee5a499cb184ae7a4190dd207b",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/f3c0a6916ee21fee.ics",
+   "title": "18th Single ひなた坂46 LIVE",
+   "starts_at": "2026-09-05T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
    "uid": "20291789293976f23ce0eba8513bcb06c1228f5a",
    "group": "sakurazaka46",
    "kind": "ticket",
@@ -346,6 +380,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00868?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "351acf7814d4c736c7c965fafd701a655071d4b1",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-09-09T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/351acf7814d4c736.ics",
+   "title": "18th Single ひなた坂46 LIVE",
+   "starts_at": "2026-09-07T12:00:00+09:00",
+   "ends_at": "2026-09-09T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -485,6 +536,23 @@
    "source_label": "櫻坂46 公式サイト"
   },
   {
+   "uid": "618cf292f974de8df362eb4691b8537e5a3ea3d4",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/618cf292f974de8d.ics",
+   "title": "18th Single ひなた坂46 LIVE",
+   "starts_at": "2026-09-19T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
    "uid": "cd6c2ececd694140593f9b632ff7985170358a23",
    "group": "sakurazaka46",
    "kind": "live",
@@ -532,7 +600,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00563?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00572?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -568,6 +636,40 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102164?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "345258bfc89f590b141dc142f768a1d4c767918f",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/345258bfc89f590b.ics",
+   "title": "18th Single ひなた坂46 LIVE",
+   "starts_at": "2026-10-06T17:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "4e06f1d18d1c78c9f6c379fad75229dc350ee70d",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/4e06f1d18d1c78c9.ics",
+   "title": "18th Single ひなた坂46 LIVE",
+   "starts_at": "2026-10-07T17:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "6270ba2350be84dd06939d905a3f79a9e9046947",

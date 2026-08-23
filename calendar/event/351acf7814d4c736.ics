@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:351acf7814d4c736c7c965fafd701a655071d4b1@sakamichi-times.com
+DTSTAMP:20260823T083056Z
+DTSTART;TZID=Asia/Tokyo:20260907T120000
+DTEND;TZID=Asia/Tokyo:20260909T235900
+SUMMARY:[日向坂46] 18th Single ひなた坂46 LIVE（ライブチケ
+ ット受付）
+DESCRIPTION:ライブチケット受付 / 日向坂46\n締切: 9月9日
+ (水) 23:59\n出典: 日向坂46 公式サイト\nhttps://www.hinatazak
+ a46.com/s/official/news/detail/E00886?ima=0000\n\n坂道タイムズ ht
+ tps://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:18th Single ひなた坂46 LIVE の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

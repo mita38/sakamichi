@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:345258bfc89f590b141dc142f768a1d4c767918f@sakamichi-times.com
+DTSTAMP:20260823T083056Z
+DTSTART;TZID=Asia/Tokyo:20261006T170000
+DTEND;TZID=Asia/Tokyo:20261006T190000
+SUMMARY:[日向坂46] 18th Single ひなた坂46 LIVE（ライブ・公
+ 演）
+DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
+ 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/E0088
+ 6?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:f3c0a6916ee21fee5a499cb184ae7a4190dd207b@sakamichi-times.com
+DTSTAMP:20260823T083056Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:[日向坂46] 18th Single ひなた坂46 LIVE（ライブチケ
+ ット受付）
+DESCRIPTION:ライブチケット受付 / 日向坂46\n出典: 日向
+ 坂46 公式サイト\nhttps://www.hinatazaka46.com/s/official/news/det
+ ail/E00886?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/c
+ alendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:18th Single ひなた坂46 LIVE の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
