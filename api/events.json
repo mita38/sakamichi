@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-23T20:30:16+09:00",
+ "generated_at": "2026-08-23T23:30:19+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -211,6 +211,23 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102142?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "6adb8ae0161f52db78babfec5387a8c6b6506a83",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/6adb8ae0161f52db.ics",
+   "title": "三期生 LIVE",
+   "starts_at": "2026-08-23T22:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00233?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "69832aa1dd1c35904624845b85db0c221bc906a8",
