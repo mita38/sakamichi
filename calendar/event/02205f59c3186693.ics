@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:02205f59c3186693522ac5bc96b02a3b800fe1a6@sakamichi-times.com
+DTSTAMP:20260824T113026Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:[櫻坂46] 8月24日(月)~放送の震災時交通規制ラジ
+ オCMに山川宇衣が出演（ラジオ放送）
+DESCRIPTION:ラジオ放送 / 櫻坂46\n出典: 櫻坂46 公式サイ
+ ト\nhttps://sakurazaka46.com/s/s46/news/detail/M02164?ima=0000\n\n坂
+ 道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/M02164?ima=0000
+CATEGORIES:ラジオ放送
+END:VEVENT
+END:VCALENDAR

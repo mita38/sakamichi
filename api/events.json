@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-24T17:30:18+09:00",
+ "generated_at": "2026-08-24T20:30:26+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -75,6 +75,40 @@
    "confidence": "high",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "02205f59c3186693522ac5bc96b02a3b800fe1a6",
+   "group": "sakurazaka46",
+   "kind": "broadcast",
+   "kind_label": "ラジオ放送",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/02205f59c3186693.ics",
+   "title": "8月24日(月)~放送の震災時交通規制ラジオCMに山川宇衣が出演",
+   "starts_at": "2026-08-24T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02164?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "ec1cc383f717e997c7a6fb1bfd342980910d485a",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-09-30T00:00:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/ec1cc383f717e997.ics",
+   "title": "乃木坂46 真夏の全国ツアー2026",
+   "starts_at": "2026-08-24T00:00:00+09:00",
+   "ends_at": "2026-09-30T00:00:00+09:00",
+   "all_day": true,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102207?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "69832aa1dd1c35904624845b85db0c221bc906a8",
