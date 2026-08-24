@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-24T23:30:20+09:00",
+ "generated_at": "2026-08-25T06:30:16+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -75,23 +75,6 @@
    "confidence": "high",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
    "source_label": "日向坂46 公式サイト"
-  },
-  {
-   "uid": "02205f59c3186693522ac5bc96b02a3b800fe1a6",
-   "group": "sakurazaka46",
-   "kind": "broadcast",
-   "kind_label": "ラジオ放送",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/02205f59c3186693.ics",
-   "title": "8月24日(月)~放送の震災時交通規制ラジオCMに山川宇衣が出演",
-   "starts_at": "2026-08-24T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02164?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "ec1cc383f717e997c7a6fb1bfd342980910d485a",
