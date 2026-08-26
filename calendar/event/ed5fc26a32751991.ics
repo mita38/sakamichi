@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ed5fc26a32751991f2b1f418ca414e0d85f68e1f@sakamichi-times.com
+DTSTAMP:20260826T213037Z
+DTSTART;TZID=Asia/Tokyo:20260829T193000
+DTEND;TZID=Asia/Tokyo:20260829T213000
+SUMMARY:[乃木坂46] #やっぱ乃木坂だな（ライブ・公演）
+LOCATION:Day4公演
+DESCRIPTION:ライブ・公演 / 乃木坂46\n会場: Day4公演\n出
+ 典: 乃木坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news
+ /detail/102213?ima=3002&pri1=202608\n\n坂道タイムズ https://sakam
+ ichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102213?ima=3002&pri1=2
+ 02608
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR

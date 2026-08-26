@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:6323113aa1726b6e5be0b5b030056135c9e00bb9@sakamichi-times.com
+DTSTAMP:20260826T213037Z
+DTSTART;TZID=Asia/Tokyo:20260829T193000
+DTEND;TZID=Asia/Tokyo:20260829T213000
+SUMMARY:[乃木坂46] #やっぱ乃木坂だな（配信）
+DESCRIPTION:配信 / 乃木坂46\n出典: 乃木坂46 公式サイト\n
+ https://www.nogizaka46.com/s/n46/news/detail/102213?ima=3002&pri1=20260
+ 8\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102213?ima=3002&pri1=2
+ 02608
+CATEGORIES:配信
+END:VEVENT
+END:VCALENDAR
