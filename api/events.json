@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-27T23:30:17+09:00",
+ "generated_at": "2026-08-28T06:30:14+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -25,23 +25,6 @@
   }
  ],
  "events": [
-  {
-   "uid": "f39a2ff8b3500ac6fd7c3be16e95acac17f5f507",
-   "group": "hinatazaka46",
-   "kind": "ticket",
-   "kind_label": "オンラインイベント受付",
-   "round": null,
-   "venue": null,
-   "deadline": "2026-08-27T23:59:00+09:00",
-   "ics_url": "https://sakamichi-times.com/calendar/event/f39a2ff8b3500ac6.ics",
-   "title": "三期生LIVE",
-   "starts_at": "2026-08-04T19:00:00+09:00",
-   "ends_at": "2026-08-27T23:59:00+09:00",
-   "all_day": false,
-   "confidence": "high",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/O100289?ima=0000",
-   "source_label": "日向坂46 公式サイト"
-  },
   {
    "uid": "00a064ae580357e99f8cb71a4fcfafc55e12a9fe",
    "group": "hinatazaka46",
@@ -94,23 +77,6 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
-   "uid": "135d24e64bddd4e3bb537e0c398193bb301486af",
-   "group": "hinatazaka46",
-   "kind": "live",
-   "kind_label": "フェス出演",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/135d24e64bddd4e3.ics",
-   "title": "ひなたフェス2026",
-   "starts_at": "2026-08-27T20:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00234?ima=0000",
-   "source_label": "日向坂46 公式サイト"
-  },
-  {
    "uid": "fce2d9c66cc49f3a48549fc68a34395774a8faef",
    "group": "hinatazaka46",
    "kind": "ticket",
@@ -124,23 +90,6 @@
    "ends_at": "2026-09-01T23:00:00+09:00",
    "all_day": false,
    "confidence": "high",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00234?ima=0000",
-   "source_label": "日向坂46 公式サイト"
-  },
-  {
-   "uid": "3d67a8b07f39301a0d10c2a8ac544c141ab86caa",
-   "group": "hinatazaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/3d67a8b07f39301a.ics",
-   "title": "ひなたフェス2026",
-   "starts_at": "2026-08-27T20:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00234?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
