@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-27T13:31:19+09:00",
+ "generated_at": "2026-08-27T17:30:28+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -516,6 +516,23 @@
    "all_day": true,
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00675?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "d9bc68ab2d59bfb9a7214a4e27879f717a86f8d0",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "横浜アリーナ",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/d9bc68ab2d59bfb9.ics",
+   "title": "「第43回 マイナビ 東京ガールズコレクション 2026 AUTUMN/WINTER」に",
+   "starts_at": "2026-09-19T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00677?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {

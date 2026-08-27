@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:d9bc68ab2d59bfb9a7214a4e27879f717a86f8d0@sakamichi-times.com
+DTSTAMP:20260827T083028Z
+DTSTART;TZID=Asia/Tokyo:20260919T120000
+DTEND;TZID=Asia/Tokyo:20260919T140000
+SUMMARY:[櫻坂46] 「第43回 マイナビ 東京ガールズコレク
+ ション 2026 AUTUMN/WINTER」に（ライブ・公演）
+LOCATION:横浜アリーナ
+DESCRIPTION:ライブ・公演 / 櫻坂46\n会場: 横浜アリーナ\n
+ 出典: 櫻坂46 公式サイト\nhttps://sakurazaka46.com/s/s46/news/d
+ etail/E00677?ima=0000\n\n坂道タイムズ https://sakamichi-times.com
+ /calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/E00677?ima=0000
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR
