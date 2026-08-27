@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:fce2d9c66cc49f3a48549fc68a34395774a8faef@sakamichi-times.com
+DTSTAMP:20260827T113023Z
+DTSTART;TZID=Asia/Tokyo:20260827T200000
+DTEND;TZID=Asia/Tokyo:20260901T230000
+SUMMARY:[日向坂46] ひなたフェス2026（ライブチケット受
+ 付）
+DESCRIPTION:ライブチケット受付 / 日向坂46\n締切: 9月1日
+ (火) 23:00\n出典: 日向坂46 公式サイト\nhttps://www.hinatazak
+ a46.com/s/official/news/detail/G00234?ima=0000\n\n坂道タイムズ ht
+ tps://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/G00234?ima=0000
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:ひなたフェス2026 の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
