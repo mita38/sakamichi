@@ -6,16 +6,16 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:53bbe5225221db917e44a3cafd5997c08f7c31f5@sakamichi-times.com
-DTSTAMP:20260828T043018Z
+DTSTAMP:20260828T083024Z
 DTSTART;TZID=Asia/Tokyo:20260905T143000
 DTEND;TZID=Asia/Tokyo:20260905T163000
 SUMMARY:[日向坂46] ひなたフェス2026（フェス出演）
 LOCATION:ひなたサンマリンスタジアム
 DESCRIPTION:フェス出演 / 日向坂46\n会場: ひなたサンマ
  リンスタジアム\n出典: 日向坂46 公式サイト\nhttps://www
- .hinatazaka46.com/s/official/news/detail/E00892?ima=0000\n\n坂道タ
+ .hinatazaka46.com/s/official/news/detail/E00896?ima=0000\n\n坂道タ
  イムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/E00892?ima=0000
+URL:https://www.hinatazaka46.com/s/official/news/detail/E00896?ima=0000
 CATEGORIES:フェス出演
 END:VEVENT
 END:VCALENDAR
