@@ -6,14 +6,14 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:047c6e44f505008a0935557c0a312806d82f6da5@sakamichi-times.com
-DTSTAMP:20260829T013014Z
+DTSTAMP:20260829T043022Z
 DTSTART;TZID=Asia/Tokyo:20260829T120000
 DTEND;TZID=Asia/Tokyo:20260829T140000
-SUMMARY:[日向坂46] 王様のブランチ（テレビ放送）
-DESCRIPTION:テレビ放送 / 日向坂46\n出典: 日向坂46 公式
- サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/M02786?i
- ma=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.hinatazaka46.com/s/official/news/detail/M02786?ima=0000
-CATEGORIES:テレビ放送
+SUMMARY:[日向坂46] 王様のブランチ（配信）
+DESCRIPTION:配信 / 日向坂46\n出典: 日向坂46 公式サイト\n
+ https://www.hinatazaka46.com/s/official/news/detail/E00900?ima=0000\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/E00900?ima=0000
+CATEGORIES:配信
 END:VEVENT
 END:VCALENDAR
