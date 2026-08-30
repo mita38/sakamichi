@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-30T20:30:19+09:00",
+ "generated_at": "2026-08-30T23:30:23+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -111,6 +111,23 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
+   "uid": "6634a83e3e03b922001161dff8e053c1ae8f86ce",
+   "group": "sakurazaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/6634a83e3e03b922.ics",
+   "title": "櫻坂チャンネル",
+   "starts_at": "2026-08-30T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02167?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "db4648159eb5ebdc5d676aa88c4f9a2b6e874fb6",
    "group": "sakurazaka46",
    "kind": "live",
@@ -124,7 +141,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02167?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -211,6 +228,23 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102213?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "d8f217260122c60fa8322b9e6970f03bfb9f41dd",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "チケット・受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/d8f217260122c60f.ics",
+   "title": "愛MUST BE",
+   "starts_at": "2026-08-30T20:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/R00611?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "5a6e3847d9513f9a3da9e1d7388bc9fec12bf344",
@@ -617,7 +651,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02167?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -634,7 +668,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02167?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -702,7 +736,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02167?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -719,7 +753,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02167?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
