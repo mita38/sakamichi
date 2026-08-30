@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:5a6e3847d9513f9a3da9e1d7388bc9fec12bf344@sakamichi-times.com
+DTSTAMP:20260830T083019Z
+DTSTART;TZID=Asia/Tokyo:20260830T204500
+DTEND;TZID=Asia/Tokyo:20260830T224500
+SUMMARY:[櫻坂46] 櫻坂チャンネル（配信）
+DESCRIPTION:配信 / 櫻坂46\n出典: 櫻坂46 公式サイト\nhttps:
+ //sakurazaka46.com/s/s46/news/detail/M02166?ima=0000\n\n坂道タイム
+ ズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000
+CATEGORIES:配信
+END:VEVENT
+END:VCALENDAR

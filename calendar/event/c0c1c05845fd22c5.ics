@@ -6,15 +6,14 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:c0c1c05845fd22c58f5fff2f56a386dd635afe2a@sakamichi-times.com
-DTSTAMP:20260830T043017Z
+DTSTAMP:20260830T083019Z
 DTSTART;VALUE=DATE:20260915
 DTEND;VALUE=DATE:20260916
-SUMMARY:[櫻坂46] 8月22日(土)12:00~「Sakurazaka46 ARENA TOUR 2026 
- （配信）
+SUMMARY:[櫻坂46] 櫻坂チャンネル（配信）
 DESCRIPTION:配信 / 櫻坂46\n出典: 櫻坂46 公式サイト\nhttps:
- //sakurazaka46.com/s/s46/news/detail/E00675?ima=0000\n\n坂道タイム
+ //sakurazaka46.com/s/s46/news/detail/M02166?ima=0000\n\n坂道タイム
  ズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/E00675?ima=0000
+URL:https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000
 CATEGORIES:配信
 END:VEVENT
 END:VCALENDAR

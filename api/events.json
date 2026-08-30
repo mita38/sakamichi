@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-30T13:30:17+09:00",
+ "generated_at": "2026-08-30T17:30:19+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -111,6 +111,23 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
+   "uid": "db4648159eb5ebdc5d676aa88c4f9a2b6e874fb6",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/db4648159eb5ebdc.ics",
+   "title": "櫻坂チャンネル",
+   "starts_at": "2026-08-30T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "bf7ed44a78cc912aeb718e50df864cc7a03858bd",
    "group": "nogizaka46",
    "kind": "ticket",
@@ -136,12 +153,12 @@
    "venue": null,
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/a90b6762a091903b.ics",
-   "title": "6期生全国ツアー2026",
+   "title": "乃木坂配信中",
    "starts_at": "2026-08-30T12:00:00+09:00",
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102219?ima=3002&pri1=202608",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102222?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -194,6 +211,23 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102213?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "5a6e3847d9513f9a3da9e1d7388bc9fec12bf344",
+   "group": "sakurazaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/5a6e3847d9513f9a.ics",
+   "title": "櫻坂チャンネル",
+   "starts_at": "2026-08-30T20:45:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "94e4d00064a8812d1f3d9f49242db58a36be5275",
@@ -570,6 +604,40 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "6cf045c6682afebdfa5dfab0d84951d7a4e62d9b",
+   "group": "sakurazaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/6cf045c6682afebd.ics",
+   "title": "櫻坂チャンネル",
+   "starts_at": "2026-09-14T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "0526e81c0c61d11e672acee2f94c06f38b7f3713",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/0526e81c0c61d11e.ics",
+   "title": "櫻坂チャンネル",
+   "starts_at": "2026-09-14T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "41e3b3bf3ea3740a1c9c83aa0f9b83f5c19cefef",
    "group": "sakurazaka46",
    "kind": "broadcast",
@@ -629,12 +697,12 @@
    "venue": null,
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/c0c1c05845fd22c5.ics",
-   "title": "8月22日(土)12:00~「Sakurazaka46 ARENA TOUR 2026 ",
+   "title": "櫻坂チャンネル",
    "starts_at": "2026-09-15T00:00:00+09:00",
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00675?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -646,12 +714,12 @@
    "venue": null,
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/4e6b4bcd6d8348b5.ics",
-   "title": "8月22日(土)12:00~「Sakurazaka46 ARENA TOUR 2026 ",
+   "title": "櫻坂チャンネル",
    "starts_at": "2026-09-15T00:00:00+09:00",
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00675?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02166?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
