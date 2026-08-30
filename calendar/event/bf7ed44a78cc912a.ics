@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:bf7ed44a78cc912aeb718e50df864cc7a03858bd@sakamichi-times.com
+DTSTAMP:20260830T043017Z
+DTSTART;TZID=Asia/Tokyo:20260830T120000
+DTEND;TZID=Asia/Tokyo:20260906T235900
+SUMMARY:[乃木坂46] 6期生全国ツアー2026（ライブチケッ
+ ト受付）
+DESCRIPTION:ライブチケット受付 / 乃木坂46\n締切: 9月6日
+ (日) 23:59\n出典: 乃木坂46 公式サイト\nhttps://www.nogizaka4
+ 6.com/s/n46/news/detail/102219?ima=3002&pri1=202608\n\n坂道タイム
+ ズ https://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102219?ima=3002&pri1=2
+ 02608
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:6期生全国ツアー2026 の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
