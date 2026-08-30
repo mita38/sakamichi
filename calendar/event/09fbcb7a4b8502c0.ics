@@ -5,16 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:20703691367954f08877b92534ff81056f996299@sakamichi-times.com
+UID:09fbcb7a4b8502c066022d8fd8b5af215abec933@sakamichi-times.com
 DTSTAMP:20260830T113019Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:[櫻坂46] LIVE Blu-ray&DVD『5th YEAR ANNIVERSARY LIVE a（Blu
- -ray・DVD発売）
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:[櫻坂46] 愛MUST BE（Blu-ray・DVD発売）
 DESCRIPTION:Blu-ray・DVD発売 / 櫻坂46\n出典: 櫻坂46 公式サ
- イト\nhttps://sakurazaka46.com/s/s46/news/detail/R00604?ima=0000\n\n
+ イト\nhttps://sakurazaka46.com/s/s46/news/detail/R00610?ima=0000\n\n
  坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/R00604?ima=0000
+URL:https://sakurazaka46.com/s/s46/news/detail/R00610?ima=0000
 CATEGORIES:Blu-ray・DVD発売
 END:VEVENT
 END:VCALENDAR

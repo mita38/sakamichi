@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-08-30T17:30:19+09:00",
+ "generated_at": "2026-08-30T20:30:19+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -874,6 +874,23 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "09fbcb7a4b8502c066022d8fd8b5af215abec933",
+   "group": "sakurazaka46",
+   "kind": "release",
+   "kind_label": "Blu-ray・DVD発売",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/09fbcb7a4b8502c0.ics",
+   "title": "愛MUST BE",
+   "starts_at": "2026-10-14T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/R00610?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "92f2f50204372f1da3d277e733c028136c040d8d",
