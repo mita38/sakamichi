@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:b1977669768f69a7762ef49cb5087f9373d434e7@sakamichi-times.com
+DTSTAMP:20260830T213021Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:[乃木坂46] 乃木坂工事中（テレビ放送）
+DESCRIPTION:テレビ放送 / 乃木坂46\n出典: 乃木坂46 公式
+ サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102216?ima=3002
+ &pri1=202608\n\n坂道タイムズ https://sakamichi-times.com/calendar
+ /
+URL:https://www.nogizaka46.com/s/n46/news/detail/102216?ima=3002&pri1=2
+ 02608
+CATEGORIES:テレビ放送
+END:VEVENT
+END:VCALENDAR
