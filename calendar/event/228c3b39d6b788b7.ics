@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:228c3b39d6b788b75482c55de5c08185ab18bc33@sakamichi-times.com
+DTSTAMP:20260901T113024Z
+DTSTART;TZID=Asia/Tokyo:20260908T190000
+DTEND;TZID=Asia/Tokyo:20260908T210000
+SUMMARY:[櫻坂46] 9月8日(火)19:00より『5th YEAR ANNIVERSARY LIVE
+  at （配信）
+DESCRIPTION:配信 / 櫻坂46\n出典: 櫻坂46 公式サイト\nhttps:
+ //sakurazaka46.com/s/s46/news/detail/R00612?ima=0000\n\n坂道タイム
+ ズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/R00612?ima=0000
+CATEGORIES:配信
+END:VEVENT
+END:VCALENDAR

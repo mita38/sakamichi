@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:1057f12a9a5af0f8d31d1081ded7f09bd5e4f76f@sakamichi-times.com
+DTSTAMP:20260901T113024Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:[乃木坂46] 是非に及ばず（ミート＆グリート受
+ 付・第16次）
+DESCRIPTION:ミート＆グリート受付・第16次 / 乃木坂46\n
+ 出典: 乃木坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/n
+ ews/detail/102223?ima=3002&pri1=202609\n\n坂道タイムズ https://sa
+ kamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102223?ima=3002&pri1=2
+ 02609
+CATEGORIES:ミート＆グリート受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:是非に及ばず の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

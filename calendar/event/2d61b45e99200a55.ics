@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:2d61b45e99200a5563c48dcf930bae3f79a37c5d@sakamichi-times.com
+DTSTAMP:20260901T113024Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:[乃木坂46] 是非に及ばず（ミート＆グリート受
+ 付・第13次）
+DESCRIPTION:ミート＆グリート受付・第13次 / 乃木坂46\n
+ 出典: 乃木坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/n
+ ews/detail/102223?ima=3002&pri1=202609\n\n坂道タイムズ https://sa
+ kamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102223?ima=3002&pri1=2
+ 02609
+CATEGORIES:ミート＆グリート受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:是非に及ばず の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

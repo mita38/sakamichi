@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:75623633d75a4041e5bf86e3930053b20c8e6066@sakamichi-times.com
+DTSTAMP:20260901T113024Z
+DTSTART;TZID=Asia/Tokyo:20260905T170000
+DTEND;TZID=Asia/Tokyo:20260905T190000
+SUMMARY:[日向坂46] 日向坂で会いましょう（ライブ・公
+ 演）
+DESCRIPTION:ライブ・公演 / 日向坂46\n出典: 日向坂46 公
+ 式サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/G0023
+ 6?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/G00236?ima=0000
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR
