@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-01T23:30:15+09:00",
+ "generated_at": "2026-09-02T06:30:14+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -26,23 +26,6 @@
  ],
  "events": [
   {
-   "uid": "00a064ae580357e99f8cb71a4fcfafc55e12a9fe",
-   "group": "hinatazaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": "2026-09-01T23:59:00+09:00",
-   "ics_url": "https://sakamichi-times.com/calendar/event/00a064ae580357e9.ics",
-   "title": "18th Single ひなた坂46 LIVE",
-   "starts_at": "2026-08-20T22:00:00+09:00",
-   "ends_at": "2026-09-01T23:59:00+09:00",
-   "all_day": false,
-   "confidence": "high",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
-   "source_label": "日向坂46 公式サイト"
-  },
-  {
    "uid": "ec1cc383f717e997c7a6fb1bfd342980910d485a",
    "group": "nogizaka46",
    "kind": "ticket",
@@ -58,40 +41,6 @@
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102207?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
-  },
-  {
-   "uid": "5f764b77b0cd3d47aeefe388debd579f11a5098d",
-   "group": "nogizaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": "2026-09-01T21:00:00+09:00",
-   "ics_url": "https://sakamichi-times.com/calendar/event/5f764b77b0cd3d47.ics",
-   "title": "真夏の全国ツアー2026",
-   "starts_at": "2026-08-26T12:00:00+09:00",
-   "ends_at": "2026-09-01T21:00:00+09:00",
-   "all_day": false,
-   "confidence": "high",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102215?ima=3002&pri1=202608",
-   "source_label": "乃木坂46 公式サイト"
-  },
-  {
-   "uid": "fce2d9c66cc49f3a48549fc68a34395774a8faef",
-   "group": "hinatazaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": "2026-09-01T23:00:00+09:00",
-   "ics_url": "https://sakamichi-times.com/calendar/event/fce2d9c66cc49f3a.ics",
-   "title": "ひなたフェス2026",
-   "starts_at": "2026-08-27T20:00:00+09:00",
-   "ends_at": "2026-09-01T23:00:00+09:00",
-   "all_day": false,
-   "confidence": "high",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00234?ima=0000",
-   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "27d988beabb95b5e1b3707c2d6dad70f5da0f8f2",
@@ -126,40 +75,6 @@
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102219?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
-  },
-  {
-   "uid": "4804b2078644842ac1bb270b333a16f9fa02f4ec",
-   "group": "hinatazaka46",
-   "kind": "broadcast",
-   "kind_label": "配信",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/4804b2078644842a.ics",
-   "title": "イチャイチャ虫",
-   "starts_at": "2026-09-01T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00578?ima=0000",
-   "source_label": "日向坂46 公式サイト"
-  },
-  {
-   "uid": "ad1886e5cf61b04ce40e64ea62616b6b6de84742",
-   "group": "hinatazaka46",
-   "kind": "ticket",
-   "kind_label": "オンラインイベント受付",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/ad1886e5cf61b04c.ics",
-   "title": "日向坂で会いましょう",
-   "starts_at": "2026-09-01T18:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00236?ima=0000",
-   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "92a39eb45c7f74b1e918d562e8cf7860dc26ec2e",
