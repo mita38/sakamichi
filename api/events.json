@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-02T13:30:19+09:00",
+ "generated_at": "2026-09-02T17:30:21+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -806,6 +806,23 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "fd90841ccd5b2f5b444a2cb28772396898084e2d",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "幕張メッセ",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/fd90841ccd5b2f5b.ics",
+   "title": "Rakuten GirlsAward 2026 AUTUMN/WINTER",
+   "starts_at": "2026-09-26T13:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00679?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "d26616c96bcdfa0a2b735d9aacecbcd93afb40db",
