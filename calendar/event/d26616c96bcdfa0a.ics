@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:d26616c96bcdfa0a2b735d9aacecbcd93afb40db@sakamichi-times.com
+DTSTAMP:20260902T043019Z
+DTSTART;TZID=Asia/Tokyo:20260927T235900
+DTEND;TZID=Asia/Tokyo:20260928T015900
+SUMMARY:[乃木坂46] 乃木坂46 過去の未実施個別握手会及
+ び卒業メンバーの欠席個別握手会振替のご案内（握
+ 手会）
+DESCRIPTION:握手会 / 乃木坂46\n出典: 乃木坂46 公式サイ
+ ト\nhttps://www.nogizaka46.com/s/n46/news/detail/102224?ima=3002&pri1=
+ 202609\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102224?ima=3002&pri1=2
+ 02609
+CATEGORIES:握手会
+END:VEVENT
+END:VCALENDAR
