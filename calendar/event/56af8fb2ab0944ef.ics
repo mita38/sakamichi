@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:56af8fb2ab0944ef4bab274992b9f835cc30238f@sakamichi-times.com
+DTSTAMP:20260902T113020Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:[乃木坂46] Rakuten GirlsAward 2026 AUTUMN/WINTER（イベン
+ ト）
+DESCRIPTION:イベント / 乃木坂46\n出典: 乃木坂46 公式サ
+ イト\nhttps://www.nogizaka46.com/s/n46/news/detail/102225?ima=3002&pr
+ i1=202609\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102225?ima=3002&pri1=2
+ 02609
+CATEGORIES:イベント
+END:VEVENT
+END:VCALENDAR

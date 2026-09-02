@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:fcdc52cfd46f303c407d3c1c99b921050406825c@sakamichi-times.com
+DTSTAMP:20260902T113020Z
+DTSTART;TZID=Asia/Tokyo:20260926T130000
+DTEND;TZID=Asia/Tokyo:20260926T150000
+SUMMARY:[乃木坂46] Rakuten GirlsAward 2026 AUTUMN/WINTER（ライブ
+ ・公演）
+LOCATION:幕張メッセ
+DESCRIPTION:ライブ・公演 / 乃木坂46\n会場: 幕張メッセ\n
+ 出典: 乃木坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/n
+ ews/detail/102225?ima=3002&pri1=202609\n\n坂道タイムズ https://sa
+ kamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102225?ima=3002&pri1=2
+ 02609
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR
