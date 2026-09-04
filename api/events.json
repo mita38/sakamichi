@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-04T17:30:17+09:00",
+ "generated_at": "2026-09-04T20:30:17+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -97,7 +97,7 @@
    "uid": "bc887e135cd2b8b520d70089678c0a71fdf2aa71",
    "group": "hinatazaka46",
    "kind": "broadcast",
-   "kind_label": "放送・配信",
+   "kind_label": "配信",
    "round": null,
    "venue": null,
    "deadline": null,
@@ -107,7 +107,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00895?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/O100300?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -295,6 +295,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00236?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "b6f19f091969a5f94d77f9d0ea14bc14fd62408b",
+   "group": "hinatazaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/b6f19f091969a5f9.ics",
+   "title": "9月6日(日)20:00~ 日向坂46 緊急生配信決定!",
+   "starts_at": "2026-09-06T20:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/O100300?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
