@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-04T23:30:15+09:00",
+ "generated_at": "2026-09-05T06:30:18+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -74,23 +74,6 @@
    "all_day": false,
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102219?ima=3002&pri1=202608",
-   "source_label": "乃木坂46 公式サイト"
-  },
-  {
-   "uid": "d2a74ac4d300940c6b716ec8e2c934ec739ec845",
-   "group": "nogizaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/d2a74ac4d300940c.ics",
-   "title": "42ndSGアンダーライブ",
-   "starts_at": "2026-09-04T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102205?ima=3002&pri1=202608",
    "source_label": "乃木坂46 公式サイト"
   },
   {
