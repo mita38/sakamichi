@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:aa35e6485bd5419e457759fa1c602bc2c7f15c6d@sakamichi-times.com
+DTSTAMP:20260905T013019Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:[乃木坂46] 青葉坂46 オーディションセミナー（
+ チケット・受付）
+DESCRIPTION:チケット・受付 / 乃木坂46\n出典: 乃木坂46 
+ 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102229?im
+ a=3002&pri1=202609\n\n坂道タイムズ https://sakamichi-times.com/ca
+ lendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102229?ima=3002&pri1=2
+ 02609
+CATEGORIES:チケット・受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:青葉坂46 オーディションセミナー の受付期
+ 間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
