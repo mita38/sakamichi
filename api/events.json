@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-06T13:30:17+09:00",
+ "generated_at": "2026-09-06T17:30:18+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -226,7 +226,24 @@
    "ends_at": "2026-09-09T23:59:00+09:00",
    "all_day": false,
    "confidence": "high",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00911?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "da4fac9be40e47efec81569bd2adde97a6f7d61c",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/da4fac9be40e47ef.ics",
+   "title": "18th Single ひなた坂46 LIVE",
+   "starts_at": "2026-09-07T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00911?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -363,6 +380,23 @@
    "all_day": true,
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00900?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "947bf185ae0b776b71cefb2d8cdddae80b6ff47e",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/947bf185ae0b776b.ics",
+   "title": "18th Single ひなた坂46 LIVE",
+   "starts_at": "2026-09-12T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00911?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -634,7 +668,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00911?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -940,7 +974,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00911?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -957,7 +991,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00886?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00911?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
