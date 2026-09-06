@@ -6,16 +6,16 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:7ea8feaafe3aa9a7fa449429722023ce12f11474@sakamichi-times.com
-DTSTAMP:20260906T013036Z
+DTSTAMP:20260906T043017Z
 DTSTART;TZID=Asia/Tokyo:20261114T153000
 DTEND;TZID=Asia/Tokyo:20261114T173000
 SUMMARY:[櫻坂46] 6th YEAR ANNIVERSARY LIVE（ライブ・公演）
 LOCATION:ZOZOマリンスタジアム
 DESCRIPTION:ライブ・公演 / 櫻坂46\n会場: ZOZOマリンスタ
  ジアム\n出典: 櫻坂46 公式サイト\nhttps://sakurazaka46.com/s
- /s46/news/detail/E00665?ima=0000\n\n坂道タイムズ https://sakamich
+ /s46/news/detail/E00681?ima=0000\n\n坂道タイムズ https://sakamich
  i-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/E00665?ima=0000
+URL:https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 END:VCALENDAR

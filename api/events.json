@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-06T10:30:36+09:00",
+ "generated_at": "2026-09-06T13:30:17+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -126,6 +126,40 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/G00234?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "75099540da7518cf0b144a22f1b2fc99b21d4f58",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-09-20T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/75099540da7518cf.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-09-06T12:00:00+09:00",
+   "ends_at": "2026-09-20T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "b64afc79549904a1e5bd64d8f720ad17e22e2e00",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/b64afc79549904a1.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-09-06T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "e95582d5cadf1ecec2704d6f966db03bb0360ce3",
@@ -689,6 +723,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "6bcaa2866b583e1964727ff3ab62fccf21f66be3",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/6bcaa2866b583e19.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-09-29T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "cd6c2ececd694140593f9b632ff7985170358a23",
    "group": "sakurazaka46",
    "kind": "live",
@@ -823,6 +874,23 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102223?ima=3002&pri1=202609",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "8b671ce811cd21d6b6a196961cfc8ae5dc9342b3",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-10-06T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/8b671ce811cd21d6.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-10-01T12:00:00+09:00",
+   "ends_at": "2026-10-06T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "b1977669768f69a7762ef49cb5087f9373d434e7",
@@ -1029,6 +1097,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "8ff57f1c1522710f6345b363753d4479058dfbab",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/8ff57f1c1522710f.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-10-31T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "38a6c94dc9699bea44f92837d9f0c32429d68bc0",
    "group": "nogizaka46",
    "kind": "live",
@@ -1161,7 +1246,41 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00665?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "1b0b0175f21baf31980dbd5f695d1e6a7822f40b",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/1b0b0175f21baf31.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-11-15T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "cb960a65582159e2ade296bcc03720061028c974",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "ZOZOマリンスタジアム",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/cb960a65582159e2.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-11-15T15:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
