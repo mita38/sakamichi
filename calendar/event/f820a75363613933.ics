@@ -6,17 +6,16 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:f820a7536361393348d1a4ffa55c821291d45dcd@sakamichi-times.com
-DTSTAMP:20260906T143016Z
+DTSTAMP:20260906T213019Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-SUMMARY:[乃木坂46] 『乃木坂46の「の」』、10月から6期
- 生が月替わりでMCを担当!（ラジオ放送）
-DESCRIPTION:ラジオ放送 / 乃木坂46\n出典: 乃木坂46 公式
- サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102228?ima=3002
+SUMMARY:[乃木坂46] 乃木坂工事中（テレビ放送）
+DESCRIPTION:テレビ放送 / 乃木坂46\n出典: 乃木坂46 公式
+ サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102218?ima=3002
  &pri1=202609\n\n坂道タイムズ https://sakamichi-times.com/calendar
  /
-URL:https://www.nogizaka46.com/s/n46/news/detail/102228?ima=3002&pri1=2
+URL:https://www.nogizaka46.com/s/n46/news/detail/102218?ima=3002&pri1=2
  02609
-CATEGORIES:ラジオ放送
+CATEGORIES:テレビ放送
 END:VEVENT
 END:VCALENDAR
