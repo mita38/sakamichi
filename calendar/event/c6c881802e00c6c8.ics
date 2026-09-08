@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:c6c881802e00c6c8a8cd9e806861b7063f181e62@sakamichi-times.com
+DTSTAMP:20260908T043017Z
+DTSTART;TZID=Asia/Tokyo:20260924T180000
+DTEND;TZID=Asia/Tokyo:20260925T140000
+SUMMARY:[櫻坂46] 愛MUST BE（ミート＆グリート受付・第3
+ 次）
+DESCRIPTION:ミート＆グリート受付・第3次 / 櫻坂46\n締切
+ : 9月25日(金) 14:00\n出典: 櫻坂46 公式サイト\nhttps://sakur
+ azaka46.com/s/s46/news/detail/S00225?ima=0000\n\n坂道タイムズ htt
+ ps://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/S00225?ima=0000
+CATEGORIES:ミート＆グリート受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:愛MUST BE の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
