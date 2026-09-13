@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:eab65af3129c94a93319d6d2bc8c7978c9a5dbcf@sakamichi-times.com
+DTSTAMP:20260913T061439Z
+DTSTART;TZID=Asia/Tokyo:20261201T180000
+DTEND;TZID=Asia/Tokyo:20261203T175900
+SUMMARY:[日向坂46] 森本 茉莉 個別握手会参加券及びイ
+ ベント参加権利 卒業による振替のご案内（ミート＆
+ グリート受付）
+DESCRIPTION:ミート＆グリート受付 / 日向坂46\n締切: 12月
+ 3日(木) 17:59\n出典: 日向坂46 公式サイト\nhttps://www.hinat
+ azaka46.com/s/official/news/detail/S00361?ima=0000\n\n坂道タイム
+ ズ https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/S00361?ima=0000
+CATEGORIES:ミート＆グリート受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:森本 茉莉 個別握手会参加券及びイベント参
+ 加権利 卒業による振替のご案内 の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

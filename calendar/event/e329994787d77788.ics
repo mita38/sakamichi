@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:e329994787d777886c89cbb7cb131de0a67e89f7@sakamichi-times.com
+DTSTAMP:20260913T061439Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:[乃木坂46] 6期生全国ツアー2026（ライブ・公演）
+DESCRIPTION:ライブ・公演 / 乃木坂46\n出典: 乃木坂46 公
+ 式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102241?ima=1
+ 339&pri1=202609\n\n坂道タイムズ https://sakamichi-times.com/calen
+ dar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102241?ima=1339&pri1=2
+ 02609
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR

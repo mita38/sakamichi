@@ -5,18 +5,18 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:cc809bcb962dcad510beb6efaef830fdba9bf6a9@sakamichi-times.com
-DTSTAMP:20260908T213019Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
+UID:2088897ef2c3109a9bfa11456635ec3fb7ac900d@sakamichi-times.com
+DTSTAMP:20260913T061439Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
 SUMMARY:[乃木坂46] 6期生全国ツアー2026（ライブチケッ
  ト受付）
 DESCRIPTION:ライブチケット受付 / 乃木坂46\n出典: 乃木
  坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102
- 219?ima=3002&pri1=202608\n\n坂道タイムズ https://sakamichi-times.
+ 241?ima=1339&pri1=202609\n\n坂道タイムズ https://sakamichi-times.
  com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102219?ima=3002&pri1=2
- 02608
+URL:https://www.nogizaka46.com/s/n46/news/detail/102241?ima=1339&pri1=2
+ 02609
 CATEGORIES:ライブチケット受付
 BEGIN:VALARM
 TRIGGER:-P1D

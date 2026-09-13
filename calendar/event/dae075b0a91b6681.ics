@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:dae075b0a91b66813bd4d9cc0c1061235712f964@sakamichi-times.com
+DTSTAMP:20260913T061439Z
+DTSTART;TZID=Asia/Tokyo:20260918T190000
+DTEND;TZID=Asia/Tokyo:20260918T210000
+SUMMARY:[日向坂46] イチャイチャ虫（放送・配信）
+DESCRIPTION:放送・配信 / 日向坂46\n出典: 日向坂46 公式
+ サイト\nhttps://www.hinatazaka46.com/s/official/news/detail/M02805?i
+ ma=0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/M02805?ima=0000
+CATEGORIES:放送・配信
+END:VEVENT
+END:VCALENDAR

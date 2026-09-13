@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ed2b53dd3b32083a037ba8383b4cb50653b04852@sakamichi-times.com
+DTSTAMP:20260913T061439Z
+DTSTART;TZID=Asia/Tokyo:20261005T120000
+DTEND;TZID=Asia/Tokyo:20261012T235900
+SUMMARY:[日向坂46] ひなくり2026（ライブチケット受付）
+DESCRIPTION:ライブチケット受付 / 日向坂46\n締切: 10月12
+ 日(月) 23:59\n出典: 日向坂46 公式サイト\nhttps://www.hinata
+ zaka46.com/s/official/news/detail/E00916?ima=0000\n\n坂道タイムズ
+  https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/E00916?ima=0000
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:ひなくり2026 の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
