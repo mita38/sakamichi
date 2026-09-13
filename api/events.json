@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-13T23:30:15+09:00",
+ "generated_at": "2026-09-14T06:30:18+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -77,40 +77,6 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
-   "uid": "46787792893b119ed4cb00cd5731be50717f729a",
-   "group": "hinatazaka46",
-   "kind": "broadcast",
-   "kind_label": "配信",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/46787792893b119e.ics",
-   "title": "ひなたフェス2026",
-   "starts_at": "2026-09-13T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00900?ima=0000",
-   "source_label": "日向坂46 公式サイト"
-  },
-  {
-   "uid": "47aff88c9bb736ea4476bec95c49ac62722e5244",
-   "group": "nogizaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/47aff88c9bb736ea.ics",
-   "title": "6期生全国ツアー2026",
-   "starts_at": "2026-09-13T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102241?ima=1339&pri1=202609",
-   "source_label": "乃木坂46 公式サイト"
-  },
-  {
    "uid": "454bc109bd87a63e8cbfd4f1ecd23120ea44146f",
    "group": "nogizaka46",
    "kind": "ticket",
@@ -125,23 +91,6 @@
    "all_day": false,
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102205?ima=3002&pri1=202608",
-   "source_label": "乃木坂46 公式サイト"
-  },
-  {
-   "uid": "ebdab06d56ec7718ce2306e04d994a683b80d881",
-   "group": "nogizaka46",
-   "kind": "live",
-   "kind_label": "ライブ・公演",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/ebdab06d56ec7718.ics",
-   "title": "42ndSGアンダーライブ",
-   "starts_at": "2026-09-13T18:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102242?ima=3002&pri1=202609",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -889,7 +838,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102218?ima=3002&pri1=202609",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102239?ima=3002&pri1=202609",
    "source_label": "乃木坂46 公式サイト"
   },
   {
