@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:49b505b1b529a8d0f7baa62d034e9c78f15c73f9@sakamichi-times.com
+DTSTAMP:20260919T043031Z
+DTSTART;TZID=Asia/Tokyo:20261002T130000
+DTEND;TZID=Asia/Tokyo:20261005T210000
+SUMMARY:[乃木坂46] Wingsあひるの夢-Fukuoka-（チケット・
+ 受付）
+DESCRIPTION:チケット・受付 / 乃木坂46\n締切: 10月5日(月)
+  21:00\n出典: 乃木坂46 公式サイト\nhttps://www.nogizaka46.com
+ /s/n46/news/detail/102260?ima=3001&pri1=202609\n\n坂道タイムズ ht
+ tps://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102260?ima=3001&pri1=2
+ 02609
+CATEGORIES:チケット・受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Wingsあひるの夢-Fukuoka- の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

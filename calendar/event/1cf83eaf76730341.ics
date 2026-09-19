@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:1cf83eaf76730341efdca11bbb9baa4056d805e4@sakamichi-times.com
+DTSTAMP:20260919T043031Z
+DTSTART;TZID=Asia/Tokyo:20261018T235900
+DTEND;TZID=Asia/Tokyo:20261019T015900
+SUMMARY:[櫻坂46] 愛MUST BE（放送・配信）
+DESCRIPTION:放送・配信 / 櫻坂46\n出典: 櫻坂46 公式サイ
+ ト\nhttps://sakurazaka46.com/s/s46/news/detail/R00619?ima=0000\n\n坂
+ 道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/R00619?ima=0000
+CATEGORIES:放送・配信
+END:VEVENT
+END:VCALENDAR
