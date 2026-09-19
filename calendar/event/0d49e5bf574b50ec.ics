@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:0d49e5bf574b50ec007b7fca4d3f2e308f7d9050@sakamichi-times.com
-DTSTAMP:20260914T013018Z
+DTSTAMP:20260919T013058Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:[乃木坂46] 乃木坂46 過去の未実施個別握手会及
@@ -15,9 +15,9 @@ SUMMARY:[乃木坂46] 乃木坂46 過去の未実施個別握手会及
 LOCATION:幕張メッセ
 DESCRIPTION:ミート＆グリート / 乃木坂46\n会場: 幕張メ
  ッセ\n出典: 乃木坂46 公式サイト\nhttps://www.nogizaka46.com
- /s/n46/news/detail/102224?ima=3002&pri1=202609\n\n坂道タイムズ ht
+ /s/n46/news/detail/102252?ima=3002&pri1=202609\n\n坂道タイムズ ht
  tps://sakamichi-times.com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102224?ima=3002&pri1=2
+URL:https://www.nogizaka46.com/s/n46/news/detail/102252?ima=3002&pri1=2
  02609
 CATEGORIES:ミート＆グリート
 END:VEVENT

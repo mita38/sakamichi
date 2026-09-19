@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:786f5b1fd13d7d56f134d22fbd35b26f56aaa3cf@sakamichi-times.com
+DTSTAMP:20260919T013058Z
+DTSTART;TZID=Asia/Tokyo:20261011T100000
+DTEND;TZID=Asia/Tokyo:20261123T183000
+SUMMARY:[乃木坂46] 池田瑛紗 初個展の福岡巡回が決定!
+ （チケット・受付）
+DESCRIPTION:チケット・受付 / 乃木坂46\n締切: 11月23日(月
+ ) 18:30\n出典: 乃木坂46 公式サイト\nhttps://www.nogizaka46.co
+ m/s/n46/news/detail/102255?ima=3002&pri1=202609\n\n坂道タイムズ h
+ ttps://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102255?ima=3002&pri1=2
+ 02609
+CATEGORIES:チケット・受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:池田瑛紗 初個展の福岡巡回が決定! の受付
+ 期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
