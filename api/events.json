@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-21T17:30:14+09:00",
+ "generated_at": "2026-09-21T20:30:16+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -75,6 +75,23 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/M02806?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "fbf4bcccf924964d1309d88f040a082b5cb3249f",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "チケットトレード",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/fbf4bcccf924964d.ics",
+   "title": "15th Single BACKS LIVE!!",
+   "starts_at": "2026-09-22T18:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00686?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "166c0ab68ea56e392a5cd4f4c0697d673e9e7dc5",
@@ -345,7 +362,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00680?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00686?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -481,7 +498,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00680?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00686?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {

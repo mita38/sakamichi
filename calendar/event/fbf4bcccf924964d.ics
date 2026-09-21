@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:fbf4bcccf924964d1309d88f040a082b5cb3249f@sakamichi-times.com
+DTSTAMP:20260921T113016Z
+DTSTART;TZID=Asia/Tokyo:20260922T180000
+DTEND;TZID=Asia/Tokyo:20260922T200000
+SUMMARY:[櫻坂46] 15th Single BACKS LIVE!!（チケットトレード）
+DESCRIPTION:チケットトレード / 櫻坂46\n出典: 櫻坂46 公
+ 式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/E00686?ima=000
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/E00686?ima=0000
+CATEGORIES:チケットトレード
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:15th Single BACKS LIVE!! の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
