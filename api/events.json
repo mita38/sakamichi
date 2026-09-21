@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-21T10:30:17+09:00",
+ "generated_at": "2026-09-21T13:30:18+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -262,6 +262,23 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102224?ima=3002&pri1=202609",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "2882ab5f0960ccd56a5f3775c5044c705775bef3",
+   "group": "hinatazaka46",
+   "kind": "broadcast",
+   "kind_label": "放送・配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/2882ab5f0960ccd5.ics",
+   "title": "イチャイチャ虫",
+   "starts_at": "2026-09-28T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00590?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "2df55c9d52eb7e5f2b18f80bd758943d001b177f",
