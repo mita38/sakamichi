@@ -6,16 +6,16 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:b0d986fcfbed0119a9fbfac4bb8bb6dde2f93832@sakamichi-times.com
-DTSTAMP:20260922T143016Z
+DTSTAMP:20260922T213015Z
 DTSTART;TZID=Asia/Tokyo:20261008T220000
 DTEND;TZID=Asia/Tokyo:20261009T000000
-SUMMARY:[乃木坂46] きんつくろい -金繕い-（テレビ放送）
-DESCRIPTION:テレビ放送 / 乃木坂46\n出典: 乃木坂46 公式
- サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102264?ima=3002
+SUMMARY:[乃木坂46] JUMP（放送・配信）
+DESCRIPTION:放送・配信 / 乃木坂46\n出典: 乃木坂46 公式
+ サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102265?ima=3001
  &pri1=202609\n\n坂道タイムズ https://sakamichi-times.com/calendar
  /
-URL:https://www.nogizaka46.com/s/n46/news/detail/102264?ima=3002&pri1=2
+URL:https://www.nogizaka46.com/s/n46/news/detail/102265?ima=3001&pri1=2
  02609
-CATEGORIES:テレビ放送
+CATEGORIES:放送・配信
 END:VEVENT
 END:VCALENDAR
