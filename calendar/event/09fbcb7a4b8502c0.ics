@@ -6,14 +6,14 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:09fbcb7a4b8502c066022d8fd8b5af215abec933@sakamichi-times.com
-DTSTAMP:20260921T213014Z
+DTSTAMP:20260922T013023Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-SUMMARY:[櫻坂46] 愛MUST BE（発売）
-DESCRIPTION:発売 / 櫻坂46\n出典: 櫻坂46 公式サイト\nhttps:
- //sakurazaka46.com/s/s46/news/detail/S00225?ima=0000\n\n坂道タイム
- ズ https://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/S00225?ima=0000
-CATEGORIES:発売
+SUMMARY:[櫻坂46] 愛MUST BE（CD発売）
+DESCRIPTION:CD発売 / 櫻坂46\n出典: 櫻坂46 公式サイト\nhttp
+ s://sakurazaka46.com/s/s46/news/detail/R00620?ima=0000\n\n坂道タイ
+ ムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/R00620?ima=0000
+CATEGORIES:CD発売
 END:VEVENT
 END:VCALENDAR
