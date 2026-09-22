@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:e20f4421840606915a40909584ab79fe89d14f85@sakamichi-times.com
+DTSTAMP:20260922T043017Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:[櫻坂46] 15th Single BACKS LIVE!!（ライブ・公演）
+DESCRIPTION:ライブ・公演 / 櫻坂46\n出典: 櫻坂46 公式サ
+ イト\nhttps://sakurazaka46.com/s/s46/news/detail/E00687?ima=0000\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/E00687?ima=0000
+CATEGORIES:ライブ・公演
+END:VEVENT
+END:VCALENDAR
