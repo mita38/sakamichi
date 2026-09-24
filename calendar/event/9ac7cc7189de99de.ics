@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:9ac7cc7189de99de1442cd86b76a1953fb1e5f38@sakamichi-times.com
+DTSTAMP:20260924T113025Z
+DTSTART;TZID=Asia/Tokyo:20260924T200000
+DTEND;TZID=Asia/Tokyo:20260924T220000
+SUMMARY:[櫻坂46] 櫻坂46 CAFE 2026（商品受注・販売）
+DESCRIPTION:商品受注・販売 / 櫻坂46\n出典: 櫻坂46 公式
+ サイト\nhttps://sakurazaka46.com/s/s46/news/detail/G00234?ima=0000\n
+ \n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/G00234?ima=0000
+CATEGORIES:商品受注・販売
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:櫻坂46 CAFE 2026 の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

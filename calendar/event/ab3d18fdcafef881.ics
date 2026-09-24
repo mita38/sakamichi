@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ab3d18fdcafef8814752cf2ff67759f7f1a1e723@sakamichi-times.com
+DTSTAMP:20260924T113025Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:[乃木坂46] Audition（チケット・受付）
+DESCRIPTION:チケット・受付 / 乃木坂46\n出典: 乃木坂46 
+ 公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102268?im
+ a=3001&pri1=202609\n\n坂道タイムズ https://sakamichi-times.com/ca
+ lendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102268?ima=3001&pri1=2
+ 02609
+CATEGORIES:チケット・受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Audition の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
