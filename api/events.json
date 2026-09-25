@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-25T17:30:18+09:00",
+ "generated_at": "2026-09-25T20:30:25+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -125,6 +125,23 @@
    "all_day": true,
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102241?ima=1339&pri1=202609",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "b17a8f6e0159833bcc590926967e0ff45305d813",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "チケット・受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-10-04T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/b17a8f6e0159833b.ics",
+   "title": "名前を呼んで、もう一度",
+   "starts_at": "2026-09-25T18:00:00+09:00",
+   "ends_at": "2026-10-04T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102267?ima=3001&pri1=202609",
    "source_label": "乃木坂46 公式サイト"
   },
   {
