@@ -6,16 +6,15 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:d8ddb399d14bfb6dc2d754af8de0e62c6c29d029@sakamichi-times.com
-DTSTAMP:20260925T143019Z
+DTSTAMP:20260925T213018Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:[乃木坂46] Audition（放送・配信）
-DESCRIPTION:放送・配信 / 乃木坂46\n出典: 乃木坂46 公式
- サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102268?ima=3001
- &pri1=202609\n\n坂道タイムズ https://sakamichi-times.com/calendar
- /
-URL:https://www.nogizaka46.com/s/n46/news/detail/102268?ima=3001&pri1=2
+SUMMARY:[乃木坂46] Audition（配信）
+DESCRIPTION:配信 / 乃木坂46\n出典: 乃木坂46 公式サイト\n
+ https://www.nogizaka46.com/s/n46/news/detail/102273?ima=3001&pri1=20260
+ 9\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102273?ima=3001&pri1=2
  02609
-CATEGORIES:放送・配信
+CATEGORIES:配信
 END:VEVENT
 END:VCALENDAR

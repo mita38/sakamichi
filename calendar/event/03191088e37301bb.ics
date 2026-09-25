@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:03191088e37301bb4eeac6d899a95bbf5e5f12a1@sakamichi-times.com
+DTSTAMP:20260925T213018Z
+DTSTART;TZID=Asia/Tokyo:20261025T235900
+DTEND;TZID=Asia/Tokyo:20261026T015900
+SUMMARY:[乃木坂46] Audition（放送・配信）
+DESCRIPTION:放送・配信 / 乃木坂46\n出典: 乃木坂46 公式
+ サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102273?ima=3001
+ &pri1=202609\n\n坂道タイムズ https://sakamichi-times.com/calendar
+ /
+URL:https://www.nogizaka46.com/s/n46/news/detail/102273?ima=3001&pri1=2
+ 02609
+CATEGORIES:放送・配信
+END:VEVENT
+END:VCALENDAR
