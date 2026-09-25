@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:bcbbf514edcc784d02a5ac8217cd451ed47961c7@sakamichi-times.com
+DTSTAMP:20260925T043016Z
+DTSTART;TZID=Asia/Tokyo:20260930T100000
+DTEND;TZID=Asia/Tokyo:20260930T120000
+SUMMARY:[日向坂46] イチャイチャ虫（イベント）
+DESCRIPTION:イベント / 日向坂46\n出典: 日向坂46 公式サ
+ イト\nhttps://www.hinatazaka46.com/s/official/news/detail/R00592?ima=
+ 0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.hinatazaka46.com/s/official/news/detail/R00592?ima=0000
+CATEGORIES:イベント
+END:VEVENT
+END:VCALENDAR
