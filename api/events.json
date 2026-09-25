@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-09-25T13:30:16+09:00",
+ "generated_at": "2026-09-25T17:30:18+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -92,6 +92,23 @@
    "confidence": "high",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00225?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "856c01f4c9751dafc01e6b2f4cf61940cd2b3565",
+   "group": "nogizaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/856c01f4c9751daf.ics",
+   "title": "乃木坂ぶらり#22 大雨ぶらり",
+   "starts_at": "2026-09-25T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102269?ima=3001&pri1=202609",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "2088897ef2c3109a9bfa11456635ec3fb7ac900d",

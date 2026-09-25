@@ -5,15 +5,15 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-UID:11dc3749178c9a110fb5d4b6dd0284e14c8c34d5@sakamichi-times.com
+UID:856c01f4c9751dafc01e6b2f4cf61940cd2b3565@sakamichi-times.com
 DTSTAMP:20260925T083018Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:[乃木坂46] 42ndSGアンダーライブ（配信）
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:[乃木坂46] 乃木坂ぶらり#22 大雨ぶらり（配信）
 DESCRIPTION:配信 / 乃木坂46\n出典: 乃木坂46 公式サイト\n
- https://www.nogizaka46.com/s/n46/news/detail/102242?ima=3002&pri1=20260
+ https://www.nogizaka46.com/s/n46/news/detail/102269?ima=3001&pri1=20260
  9\n\n坂道タイムズ https://sakamichi-times.com/calendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102242?ima=3002&pri1=2
+URL:https://www.nogizaka46.com/s/n46/news/detail/102269?ima=3001&pri1=2
  02609
 CATEGORIES:配信
 END:VEVENT
