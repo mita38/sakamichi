@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:88de386944264739f1747238f50d01d2c27488c7@sakamichi-times.com
+DTSTAMP:20261003T213100Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:[乃木坂46] 乃木坂46 42ndSGアンダーライブ（テレ
+ ビ放送）
+DESCRIPTION:テレビ放送 / 乃木坂46\n出典: 乃木坂46 公式
+ サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102287?ima=1658
+ &pri1=202610\n\n坂道タイムズ https://sakamichi-times.com/calendar
+ /
+URL:https://www.nogizaka46.com/s/n46/news/detail/102287?ima=1658&pri1=2
+ 02610
+CATEGORIES:テレビ放送
+END:VEVENT
+END:VCALENDAR
