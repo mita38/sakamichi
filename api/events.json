@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-04T17:30:18+09:00",
+ "generated_at": "2026-10-04T20:30:22+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -260,7 +260,24 @@
    "ends_at": "2026-10-12T23:59:00+09:00",
    "all_day": false,
    "confidence": "high",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00916?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "4749a53c4e4b1b4565d01cdf36e3086a8f8f5a15",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/4749a53c4e4b1b45.ics",
+   "title": "ひなくり2026",
+   "starts_at": "2026-10-05T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -500,6 +517,23 @@
    "confidence": "high",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00226?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "a01c2fffd90fbc103af0e328ebbf2adea3e07a53",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-10-26T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/a01c2fffd90fbc10.ics",
+   "title": "ひなくり2026",
+   "starts_at": "2026-10-16T12:00:00+09:00",
+   "ends_at": "2026-10-26T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "2faa5e2b1877844425ca6177f916111caaa88ae5",
@@ -838,7 +872,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00916?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -1076,7 +1110,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00916?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -1093,7 +1127,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00916?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -1178,7 +1212,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00916?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -1196,6 +1230,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "9988c9d36b6b03a1abc9c0a0f2233a72d305a618",
+   "group": "hinatazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "国立代々木競技場 第一体育館（東京）",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/9988c9d36b6b03a1.ics",
+   "title": "ひなくり2026",
+   "starts_at": "2026-12-10T17:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
