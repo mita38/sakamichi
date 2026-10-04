@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-04T10:30:41+09:00",
+ "generated_at": "2026-10-04T13:30:16+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -363,6 +363,23 @@
    "all_day": true,
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/M02829?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "3e6e01e89295cb174d400f530735342222fa7d80",
+   "group": "hinatazaka46",
+   "kind": "broadcast",
+   "kind_label": "テレビ放送",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/3e6e01e89295cb17.ics",
+   "title": "王様のブランチ 秋の8時間生放送スペシャル",
+   "starts_at": "2026-10-10T09:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/M02832?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
