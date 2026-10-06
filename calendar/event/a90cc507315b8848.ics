@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:a90cc507315b8848bc3bd4fafc5ff3ca36e85890@sakamichi-times.com
+DTSTAMP:20261006T043018Z
+DTSTART;TZID=Asia/Tokyo:20261023T180000
+DTEND;TZID=Asia/Tokyo:20261026T235900
+SUMMARY:[乃木坂46] 乃木坂46 過去の未実施個別握手会・
+ 卒業メンバーの欠席個別握手会振替イベント応募・
+ 保証期（握手会）
+DESCRIPTION:握手会 / 乃木坂46\n締切: 10月26日(月) 23:59\n出
+ 典: 乃木坂46 公式サイト\nhttps://www.nogizaka46.com/s/n46/news
+ /detail/102299?ima=3002&pri1=202610\n\n坂道タイムズ https://sakam
+ ichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102299?ima=3002&pri1=2
+ 02610
+CATEGORIES:握手会
+END:VEVENT
+END:VCALENDAR

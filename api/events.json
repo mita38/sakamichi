@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-06T10:30:14+09:00",
+ "generated_at": "2026-10-06T13:30:18+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -176,6 +176,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102268?ima=3001&pri1=202609",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "77c034e55340fd219ca7b5919ba6b1e3ad4787ed",
+   "group": "nogizaka46",
+   "kind": "event",
+   "kind_label": "握手会",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-10-12T00:00:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/77c034e55340fd21.ics",
+   "title": "乃木坂46 過去の未実施個別握手会・卒業メンバーの欠席個別握手会振替イベント応募・保証期",
+   "starts_at": "2026-10-09T18:00:00+09:00",
+   "ends_at": "2026-10-12T00:00:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102299?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -381,6 +398,23 @@
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/R00619?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "a90cc507315b8848bc3bd4fafc5ff3ca36e85890",
+   "group": "nogizaka46",
+   "kind": "event",
+   "kind_label": "握手会",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-10-26T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/a90cc507315b8848.ics",
+   "title": "乃木坂46 過去の未実施個別握手会・卒業メンバーの欠席個別握手会振替イベント応募・保証期",
+   "starts_at": "2026-10-23T18:00:00+09:00",
+   "ends_at": "2026-10-26T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102299?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "03191088e37301bb4eeac6d899a95bbf5e5f12a1",
@@ -702,7 +736,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102252?ima=3002&pri1=202609",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102299?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
