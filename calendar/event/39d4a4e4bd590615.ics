@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:39d4a4e4bd5906151a64d08d5316266055dfd201@sakamichi-times.com
+DTSTAMP:20261008T113024Z
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:[櫻坂46] FUKUOKA MUSIC FES.2027（フェス出演）
+DESCRIPTION:フェス出演 / 櫻坂46\n出典: 櫻坂46 公式サイ
+ ト\nhttps://sakurazaka46.com/s/s46/news/detail/E00692?ima=0000\n\n坂
+ 道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/E00692?ima=0000
+CATEGORIES:フェス出演
+END:VEVENT
+END:VCALENDAR
