@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:5d45d516769088b4b003a45128d22bb450de782d@sakamichi-times.com
-DTSTAMP:20261009T013026Z
+DTSTAMP:20261009T043018Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:[乃木坂46] 是非に及ばず（ミート＆グリート）
 DESCRIPTION:ミート＆グリート / 乃木坂46\n出典: 乃木坂46
-  公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102284?i
+  公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102307?i
  ma=3002&pri1=202610\n\n坂道タイムズ https://sakamichi-times.com/c
  alendar/
-URL:https://www.nogizaka46.com/s/n46/news/detail/102284?ima=3002&pri1=2
+URL:https://www.nogizaka46.com/s/n46/news/detail/102307?ima=3002&pri1=2
  02610
 CATEGORIES:ミート＆グリート
 END:VEVENT
