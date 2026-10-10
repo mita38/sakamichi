@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:9b39cc4a6435e8ab9a57974de422a1c82fdc4732@sakamichi-times.com
+DTSTAMP:20261010T043022Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:[櫻坂46] 6th YEAR ANNIVERSARY LIVE（ライブチケット受
+ 付）
+DESCRIPTION:ライブチケット受付 / 櫻坂46\n出典: 櫻坂46 
+ 公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/T00004?ima=
+ 0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/T00004?ima=0000
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:6th YEAR ANNIVERSARY LIVE の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
