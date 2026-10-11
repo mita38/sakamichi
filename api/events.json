@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-11T23:30:16+09:00",
+ "generated_at": "2026-10-12T06:30:21+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -942,6 +942,23 @@
    "confidence": "high",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/S00361?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "986e988f31e27a4a63c4d7438a2314db145f93e5",
+   "group": "nogizaka46",
+   "kind": "release",
+   "kind_label": "CD発売",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/986e988f31e27a4a.ics",
+   "title": "君ロス",
+   "starts_at": "2026-12-02T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102295?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "ef4b408fb05c0dfd0ae7f09dbb1eaea4244f6f1a",
