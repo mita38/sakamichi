@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-12T10:30:16+09:00",
+ "generated_at": "2026-10-12T13:30:20+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -133,7 +133,7 @@
    "kind": "event",
    "kind_label": "ミート＆グリート",
    "round": null,
-   "venue": null,
+   "venue": "に幕張メッセ",
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/5d45d516769088b4.ics",
    "title": "是非に及ばず",
@@ -141,7 +141,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102308?ima=3002&pri1=202610",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102320?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -942,6 +942,23 @@
    "confidence": "high",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/S00361?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "1e4cdad80d18b1ab61e1a8326a4000f11161c96a",
+   "group": "nogizaka46",
+   "kind": "event",
+   "kind_label": "ミート＆グリート",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/1e4cdad80d18b1ab.ics",
+   "title": "乃木坂配信中",
+   "starts_at": "2026-12-02T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102320?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "986e988f31e27a4a63c4d7438a2314db145f93e5",

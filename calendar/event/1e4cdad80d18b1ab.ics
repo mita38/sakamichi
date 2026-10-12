@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:1e4cdad80d18b1ab61e1a8326a4000f11161c96a@sakamichi-times.com
+DTSTAMP:20261012T043020Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:[乃木坂46] 乃木坂配信中（ミート＆グリート）
+DESCRIPTION:ミート＆グリート / 乃木坂46\n出典: 乃木坂46
+  公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102320?i
+ ma=3002&pri1=202610\n\n坂道タイムズ https://sakamichi-times.com/c
+ alendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102320?ima=3002&pri1=2
+ 02610
+CATEGORIES:ミート＆グリート
+END:VEVENT
+END:VCALENDAR
