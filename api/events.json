@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-13T20:30:15+09:00",
+ "generated_at": "2026-10-13T23:30:16+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -90,7 +90,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102325?ima=3002&pri1=202610",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102330?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -672,6 +672,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "20bfa78e6d53fab28f80d9ed7922db3e3e31bbe2",
+   "group": "nogizaka46",
+   "kind": "broadcast",
+   "kind_label": "放送・配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/20bfa78e6d53fab2.ics",
+   "title": "楽園追放 心のレゾナンス",
+   "starts_at": "2026-11-11T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102330?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "e329994787d777886c89cbb7cb131de0a67e89f7",
    "group": "nogizaka46",
    "kind": "live",
@@ -805,6 +822,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102219?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "e3aa8885a11b83c6b0f34e29afaba7c5836c1cf5",
+   "group": "nogizaka46",
+   "kind": "release",
+   "kind_label": "発売",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/e3aa8885a11b83c6.ics",
+   "title": "楽園追放 心のレゾナンス",
+   "starts_at": "2026-11-18T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102330?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {

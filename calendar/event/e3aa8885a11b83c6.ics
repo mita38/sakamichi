@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:e3aa8885a11b83c6b0f34e29afaba7c5836c1cf5@sakamichi-times.com
+DTSTAMP:20261013T143016Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:[乃木坂46] 楽園追放 心のレゾナンス（発売）
+DESCRIPTION:発売 / 乃木坂46\n出典: 乃木坂46 公式サイト\n
+ https://www.nogizaka46.com/s/n46/news/detail/102330?ima=3002&pri1=20261
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102330?ima=3002&pri1=2
+ 02610
+CATEGORIES:発売
+END:VEVENT
+END:VCALENDAR
