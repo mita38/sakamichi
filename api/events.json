@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-18T17:30:58+09:00",
+ "generated_at": "2026-10-18T20:30:32+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -1315,6 +1315,23 @@
    "all_day": true,
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00692?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "e0dc3e8f291163bd18c6f182b9ed3a87940347f4",
+   "group": "sakurazaka46",
+   "kind": "release",
+   "kind_label": "Blu-ray・DVD発売",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/e0dc3e8f291163bd.ics",
+   "title": "SAKURAZAKA46 BACKS LIVE!! BOX 2024-2026",
+   "starts_at": "2027-03-17T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/R00637?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   }
  ]

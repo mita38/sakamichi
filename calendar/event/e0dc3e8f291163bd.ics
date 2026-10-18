@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:e0dc3e8f291163bd18c6f182b9ed3a87940347f4@sakamichi-times.com
+DTSTAMP:20261018T113032Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:[櫻坂46] SAKURAZAKA46 BACKS LIVE!! BOX 2024-2026（Blu-ray・
+ DVD発売）
+DESCRIPTION:Blu-ray・DVD発売 / 櫻坂46\n出典: 櫻坂46 公式サ
+ イト\nhttps://sakurazaka46.com/s/s46/news/detail/R00637?ima=0000\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/R00637?ima=0000
+CATEGORIES:Blu-ray・DVD発売
+END:VEVENT
+END:VCALENDAR
