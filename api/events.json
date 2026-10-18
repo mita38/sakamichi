@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-18T23:30:15+09:00",
+ "generated_at": "2026-10-19T06:30:18+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -77,23 +77,6 @@
    "source_label": "櫻坂46 公式サイト"
   },
   {
-   "uid": "6ccfd7c6b75a263e3793e239ee40ccbb8f505651",
-   "group": "nogizaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": "2026-10-18T23:59:00+09:00",
-   "ics_url": "https://sakamichi-times.com/calendar/event/6ccfd7c6b75a263e.ics",
-   "title": "6期生全国ツアー2026",
-   "starts_at": "2026-10-15T18:00:00+09:00",
-   "ends_at": "2026-10-18T23:59:00+09:00",
-   "all_day": false,
-   "confidence": "high",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102332?ima=3002&pri1=202610",
-   "source_label": "乃木坂46 公式サイト"
-  },
-  {
    "uid": "a01c2fffd90fbc103af0e328ebbf2adea3e07a53",
    "group": "hinatazaka46",
    "kind": "ticket",
@@ -109,40 +92,6 @@
    "confidence": "high",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
    "source_label": "日向坂46 公式サイト"
-  },
-  {
-   "uid": "2faa5e2b1877844425ca6177f916111caaa88ae5",
-   "group": "sakurazaka46",
-   "kind": "ticket",
-   "kind_label": "ミート＆グリート受付",
-   "round": "第5次",
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/2faa5e2b18778444.ics",
-   "title": "愛MUST BE",
-   "starts_at": "2026-10-18T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00226?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
-  },
-  {
-   "uid": "1cf83eaf76730341efdca11bbb9baa4056d805e4",
-   "group": "sakurazaka46",
-   "kind": "broadcast",
-   "kind_label": "放送・配信",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/1cf83eaf76730341.ics",
-   "title": "愛MUST BE",
-   "starts_at": "2026-10-18T23:59:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/R00619?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "21b7561d8b057dbfe019e173e537baf2af7f1c19",
