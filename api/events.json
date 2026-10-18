@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-14T06:30:14+09:00",
+ "generated_at": "2026-10-18T17:30:58+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -60,55 +60,38 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
-   "uid": "ef9a5d78afa006356a6c4d353b11506870a6f5ec",
-   "group": "sakurazaka46",
-   "kind": "event",
-   "kind_label": "ミート＆グリート",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/ef9a5d78afa00635.ics",
-   "title": "愛MUST BE",
-   "starts_at": "2026-10-14T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00226?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
-  },
-  {
-   "uid": "09fbcb7a4b8502c066022d8fd8b5af215abec933",
-   "group": "sakurazaka46",
-   "kind": "release",
-   "kind_label": "CD発売",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/09fbcb7a4b8502c0.ics",
-   "title": "愛MUST BE",
-   "starts_at": "2026-10-14T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/R00620?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
-  },
-  {
-   "uid": "ee86d4aab6ceb8aa8777a1965976225a63b05e10",
+   "uid": "43c4076e819e50de092aa6af383be4ce1cb75cc2",
    "group": "sakurazaka46",
    "kind": "ticket",
-   "kind_label": "ミート＆グリート受付",
-   "round": "第6次",
+   "kind_label": "ライブチケット受付",
+   "round": null,
    "venue": null,
-   "deadline": "2026-10-15T14:00:00+09:00",
-   "ics_url": "https://sakamichi-times.com/calendar/event/ee86d4aab6ceb8aa.ics",
-   "title": "愛MUST BE",
-   "starts_at": "2026-10-14T14:00:00+09:00",
-   "ends_at": "2026-10-15T14:00:00+09:00",
+   "deadline": "2026-10-20T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/43c4076e819e50de.ics",
+   "title": "16th Single BACKS LIVE!!",
+   "starts_at": "2026-10-14T22:00:00+09:00",
+   "ends_at": "2026-10-20T23:59:00+09:00",
    "all_day": false,
    "confidence": "high",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00226?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "6ccfd7c6b75a263e3793e239ee40ccbb8f505651",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-10-18T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/6ccfd7c6b75a263e.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-10-15T18:00:00+09:00",
+   "ends_at": "2026-10-18T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102332?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "a01c2fffd90fbc103af0e328ebbf2adea3e07a53",
@@ -124,7 +107,7 @@
    "ends_at": "2026-10-26T23:59:00+09:00",
    "all_day": false,
    "confidence": "high",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -179,6 +162,23 @@
    "source_label": "櫻坂46 公式サイト"
   },
   {
+   "uid": "47ac4073219f54321feb7f4b3d0f6a5ef7ccb575",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-10-25T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/47ac4073219f5432.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-10-22T18:00:00+09:00",
+   "ends_at": "2026-10-25T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102332?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "a90cc507315b8848bc3bd4fafc5ff3ca36e85890",
    "group": "nogizaka46",
    "kind": "event",
@@ -196,6 +196,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "0450fa11a99541c26af137e60a491187ac7779d6",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/0450fa11a99541c2.ics",
+   "title": "6th YEAR ANNIVERSARY LIVE",
+   "starts_at": "2026-10-23T23:59:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/G00239?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "9b39cc4a6435e8ab9a57974de422a1c82fdc4732",
    "group": "sakurazaka46",
    "kind": "ticket",
@@ -211,6 +228,40 @@
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00004?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "204603fe33f92d33db401f887559b0b8518d7c44",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-11-01T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/204603fe33f92d33.ics",
+   "title": "16th Single BACKS LIVE!!",
+   "starts_at": "2026-10-24T12:00:00+09:00",
+   "ends_at": "2026-11-01T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "fdc2b5001f47e0a3aea76e16f8949435fe24b7d7",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/fdc2b5001f47e0a3.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-10-25T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102332?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "03191088e37301bb4eeac6d899a95bbf5e5f12a1",
@@ -366,6 +417,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "246d6ef6c7af71ca2da7cc554d1246ed9e279abc",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-11-01T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/246d6ef6c7af71ca.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-10-29T18:00:00+09:00",
+   "ends_at": "2026-11-01T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102332?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "7b058097addefc08e15efd9169b6beb433fdd128",
    "group": "nogizaka46",
    "kind": "live",
@@ -398,6 +466,23 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102287?ima=1658&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "68deed52943507edd9ab6092e90d9514913f909a",
+   "group": "hinatazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/68deed52943507ed.ics",
+   "title": "ひなくり2026",
+   "starts_at": "2026-10-30T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "9206e539a4850511189d1a3f1774ce1082aa67cc",
@@ -519,6 +604,23 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
+   "uid": "76aca9890dd89b23f8447fb0ded64a01b1e051b8",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-11-08T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/76aca9890dd89b23.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-11-05T18:00:00+09:00",
+   "ends_at": "2026-11-08T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102332?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "709f6d5d5983dcdfdc88571cef3accbd5f859cb9",
    "group": "hinatazaka46",
    "kind": "ticket",
@@ -532,7 +634,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -568,6 +670,23 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00592?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "f87dbc9a537f4605e69b2409da8886809f3d72d9",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/f87dbc9a537f4605.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-11-09T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102331?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "cf0741c557eb390e6f28e2f96a051f351e619080",
@@ -655,6 +774,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "b852a7f2494f59066825b88e3209885afd668123",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-11-15T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/b852a7f2494f5906.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-11-12T18:00:00+09:00",
+   "ends_at": "2026-11-15T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102332?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "7ea8feaafe3aa9a7fa449429722023ce12f11474",
    "group": "sakurazaka46",
    "kind": "live",
@@ -721,6 +857,23 @@
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00665?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "c687121032e59a15230e0a98e48d02b228f06248",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/c687121032e59a15.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-11-16T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102328?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "946629e7b2477cdfcd65e780fcc711b9af59032f",
@@ -804,7 +957,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -821,8 +974,25 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "a6c6dabbe8f3b53f441ae46ed83d790b2d82499f",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/a6c6dabbe8f3b53f.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-11-23T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102326?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "c7a75f7c40e80009f968fab5e2cdfc2c61ec99da",
@@ -840,6 +1010,40 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00582?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "6a5484e6e1cb8cdb100e6b9e53d1ccfdc29aef0d",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/6a5484e6e1cb8cdb.ics",
+   "title": "16th Single BACKS LIVE!!",
+   "starts_at": "2026-11-29T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "825d7b0733f752ee77ac742e342c568d5cacd59d",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/825d7b0733f752ee.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-11-30T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102329?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "eab65af3129c94a93319d6d2bc8c7978c9a5dbcf",
@@ -940,7 +1144,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -974,7 +1178,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00924?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
@@ -993,6 +1197,40 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "c05bedd984ee537e5031a51787884e042d2546db",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "ぴあアリーナ",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/c05bedd984ee537e.ics",
+   "title": "16th Single BACKS LIVE!!",
+   "starts_at": "2026-12-15T17:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "2276b2ff93009f8baa86942c75bbc66086f3124f",
+   "group": "sakurazaka46",
+   "kind": "live",
+   "kind_label": "ライブ・公演",
+   "round": null,
+   "venue": "ぴあアリーナ",
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/2276b2ff93009f8b.ics",
+   "title": "16th Single BACKS LIVE!!",
+   "starts_at": "2026-12-16T17:30:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "50a0e7a4f9bfaf2659262e970e676ead6f7149c1",
@@ -1027,6 +1265,23 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00869?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "f3552b48224c9c3613468acc29264f99b871edff",
+   "group": "nogizaka46",
+   "kind": "release",
+   "kind_label": "発売",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/f3552b48224c9c36.ics",
+   "title": "6期生全国ツアー2026",
+   "starts_at": "2026-12-30T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102328?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "512e57b8f54c78337b26f019eb823f3cb1e1604f",
