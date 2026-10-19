@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-19T23:30:21+09:00",
+ "generated_at": "2026-10-20T06:30:14+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -25,23 +25,6 @@
   }
  ],
  "events": [
-  {
-   "uid": "0c5af69287a75d275f41f821e18f3aca66bdee21",
-   "group": "sakurazaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": "2026-10-19T23:59:00+09:00",
-   "ics_url": "https://sakamichi-times.com/calendar/event/0c5af69287a75d27.ics",
-   "title": "6th YEAR ANNIVERSARY LIVE",
-   "starts_at": "2026-10-10T12:00:00+09:00",
-   "ends_at": "2026-10-19T23:59:00+09:00",
-   "all_day": false,
-   "confidence": "high",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00691?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
-  },
   {
    "uid": "786f5b1fd13d7d56f134d22fbd35b26f56aaa3cf",
    "group": "nogizaka46",
