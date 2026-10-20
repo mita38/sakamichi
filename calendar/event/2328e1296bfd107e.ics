@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:2328e1296bfd107ea87aae8a38023b82d08ac5e7@sakamichi-times.com
+DTSTAMP:20261020T113024Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:[乃木坂46] 伊藤理々杏 リアルミート&グリート
+ ・オンラインミート&グリート(個別トーク会)（ミー
+ ト＆グリート）
+DESCRIPTION:ミート＆グリート / 乃木坂46\n出典: 乃木坂46
+  公式サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102342?i
+ ma=3002&pri1=202610\n\n坂道タイムズ https://sakamichi-times.com/c
+ alendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102342?ima=3002&pri1=2
+ 02610
+CATEGORIES:ミート＆グリート
+END:VEVENT
+END:VCALENDAR

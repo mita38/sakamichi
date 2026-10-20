@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:d7617ad452d8537d194b96095dbe48bbb900921e@sakamichi-times.com
+DTSTAMP:20261020T113024Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:[乃木坂46] 君ロス（放送・配信）
+DESCRIPTION:放送・配信 / 乃木坂46\n出典: 乃木坂46 公式
+ サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002
+ &pri1=202610\n\n坂道タイムズ https://sakamichi-times.com/calendar
+ /
+URL:https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=2
+ 02610
+CATEGORIES:放送・配信
+END:VEVENT
+END:VCALENDAR

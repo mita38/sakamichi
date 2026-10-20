@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-20T17:30:17+09:00",
+ "generated_at": "2026-10-20T20:30:24+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -77,6 +77,40 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
+   "uid": "d7617ad452d8537d194b96095dbe48bbb900921e",
+   "group": "nogizaka46",
+   "kind": "broadcast",
+   "kind_label": "放送・配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/d7617ad452d8537d.ics",
+   "title": "君ロス",
+   "starts_at": "2026-10-20T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "46eb1dc7e40a12bb92bb7c35d26fe2c0b1f03a4c",
+   "group": "nogizaka46",
+   "kind": "event",
+   "kind_label": "ミート＆グリート",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/46eb1dc7e40a12bb.ics",
+   "title": "君ロス",
+   "starts_at": "2026-10-22T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "21b7561d8b057dbfe019e173e537baf2af7f1c19",
    "group": "sakurazaka46",
    "kind": "ticket",
@@ -92,6 +126,23 @@
    "confidence": "high",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00691?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "681cc4cd45d52d892b49a342feb7c4d631a8057d",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": "第1次",
+   "venue": null,
+   "deadline": "2026-10-23T14:00:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/681cc4cd45d52d89.ics",
+   "title": "君ロス",
+   "starts_at": "2026-10-22T14:00:00+09:00",
+   "ends_at": "2026-10-23T14:00:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "47ac4073219f54321feb7f4b3d0f6a5ef7ccb575",
@@ -349,6 +400,40 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "671c29648a1240e58edee04a2a4a2367292c6e17",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": "第2次",
+   "venue": null,
+   "deadline": "2026-10-30T14:00:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/671c29648a1240e5.ics",
+   "title": "君ロス",
+   "starts_at": "2026-10-29T14:00:00+09:00",
+   "ends_at": "2026-10-30T14:00:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "7239ca695cbf64b7a493c7abd30c2866cf1be1ec",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": "第1次",
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/7239ca695cbf64b7.ics",
+   "title": "君ロス",
+   "starts_at": "2026-10-29T14:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "246d6ef6c7af71ca2da7cc554d1246ed9e279abc",
    "group": "nogizaka46",
    "kind": "ticket",
@@ -553,6 +638,23 @@
    "source_label": "日向坂46 公式サイト"
   },
   {
+   "uid": "ad12262051e59075cc5ac6f595549a178b359b8f",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": "第3次",
+   "venue": null,
+   "deadline": "2026-11-06T14:00:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/ad12262051e59075.ics",
+   "title": "君ロス",
+   "starts_at": "2026-11-05T14:00:00+09:00",
+   "ends_at": "2026-11-06T14:00:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "76aca9890dd89b23f8447fb0ded64a01b1e051b8",
    "group": "nogizaka46",
    "kind": "ticket",
@@ -592,15 +694,15 @@
    "kind": "event",
    "kind_label": "ミート＆グリート",
    "round": null,
-   "venue": "幕張メッセ",
+   "venue": null,
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/0d49e5bf574b50ec.ics",
-   "title": "乃木坂46 過去の未実施個別握手会及び卒業メンバーの欠席個別握手会振替のご案内",
+   "title": "君ロス",
    "starts_at": "2026-11-08T00:00:00+09:00",
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102299?ima=3002&pri1=202610",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -757,6 +859,23 @@
    "source_label": "櫻坂46 公式サイト"
   },
   {
+   "uid": "3dc5fc40e72a8546f6e1fac39a92686db67b0716",
+   "group": "nogizaka46",
+   "kind": "event",
+   "kind_label": "ミート＆グリート",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/3dc5fc40e72a8546.ics",
+   "title": "伊藤理々杏 リアルミート&グリート・オンラインミート&グリート(個別トーク会)",
+   "starts_at": "2026-11-15T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102342?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
    "uid": "1b0b0175f21baf31980dbd5f695d1e6a7822f40b",
    "group": "sakurazaka46",
    "kind": "ticket",
@@ -772,6 +891,23 @@
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/E00681?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "2cc23386be9fa358ab4ff25ade8860fe6d1d3cb1",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/2cc23386be9fa358.ics",
+   "title": "伊藤理々杏 リアルミート&グリート・オンラインミート&グリート(個別トーク会)",
+   "starts_at": "2026-11-15T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102342?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "cb960a65582159e2ade296bcc03720061028c974",
@@ -890,6 +1026,40 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102219?ima=3002&pri1=202608",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "2328e1296bfd107ea87aae8a38023b82d08ac5e7",
+   "group": "nogizaka46",
+   "kind": "event",
+   "kind_label": "ミート＆グリート",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/2328e1296bfd107e.ics",
+   "title": "伊藤理々杏 リアルミート&グリート・オンラインミート&グリート(個別トーク会)",
+   "starts_at": "2026-11-22T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102342?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "424f1c38d094432c05a86c6aae42aaa3aa9777f1",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/424f1c38d094432c.ics",
+   "title": "伊藤理々杏 リアルミート&グリート・オンラインミート&グリート(個別トーク会)",
+   "starts_at": "2026-11-22T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102342?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -1025,7 +1195,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102320?ima=3002&pri1=202610",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102342?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -1042,7 +1212,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102315?ima=3002&pri1=202610",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
@@ -1061,6 +1231,23 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00592?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "d178683669c4a21f389ee01cead5df3b2358b1f7",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/d178683669c4a21f.ics",
+   "title": "伊藤理々杏 リアルミート&グリート・オンラインミート&グリート(個別トーク会)",
+   "starts_at": "2026-12-06T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102342?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "2af3c9baf6abc6d3e070328439f87cab776169e6",
