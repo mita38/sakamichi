@@ -6,15 +6,15 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:f1e737355b772de4e2fd80962b839b11be8969dd@sakamichi-times.com
-DTSTAMP:20261020T043014Z
+DTSTAMP:20261020T083017Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-SUMMARY:[乃木坂46] 世界はここにある（テレビ放送）
+SUMMARY:[乃木坂46] 乃木坂配信中（テレビ放送）
 DESCRIPTION:テレビ放送 / 乃木坂46\n出典: 乃木坂46 公式
- サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102338?ima=3002
+ サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102343?ima=3002
  &pri1=202610\n\n坂道タイムズ https://sakamichi-times.com/calendar
  /
-URL:https://www.nogizaka46.com/s/n46/news/detail/102338?ima=3002&pri1=2
+URL:https://www.nogizaka46.com/s/n46/news/detail/102343?ima=3002&pri1=2
  02610
 CATEGORIES:テレビ放送
 END:VEVENT
