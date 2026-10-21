@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-21T23:30:54+09:00",
+ "generated_at": "2026-10-22T06:30:55+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -74,23 +74,6 @@
    "all_day": false,
    "confidence": "high",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00227?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
-  },
-  {
-   "uid": "a0eafef545ea96d2fabf67cf9fb0883b01346303",
-   "group": "sakurazaka46",
-   "kind": "broadcast",
-   "kind_label": "テレビ放送",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/a0eafef545ea96d2.ics",
-   "title": "これ余談なんですけど・・・",
-   "starts_at": "2026-10-21T23:25:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02205?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
