@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-21T10:30:17+09:00",
+ "generated_at": "2026-10-21T13:30:19+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -58,6 +58,23 @@
    "confidence": "high",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "a18befa5e3fcb9f763e229374580eeba8e8301f0",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": "第7次",
+   "venue": null,
+   "deadline": "2026-10-22T14:00:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/a18befa5e3fcb9f7.ics",
+   "title": "愛MUST BE",
+   "starts_at": "2026-10-21T14:00:00+09:00",
+   "ends_at": "2026-10-22T14:00:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00227?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "a0eafef545ea96d2fabf67cf9fb0883b01346303",
@@ -332,6 +349,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "ac7a9ae87ca64694065a81192b4d5d9f559f23fd",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": "第8次",
+   "venue": null,
+   "deadline": "2026-10-29T14:00:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/ac7a9ae87ca64694.ics",
+   "title": "愛MUST BE",
+   "starts_at": "2026-10-28T14:00:00+09:00",
+   "ends_at": "2026-10-29T14:00:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00227?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "a8d2a7b5e157466d37abf1ea609d7733ba52da79",
    "group": "nogizaka46",
    "kind": "live",
@@ -519,6 +553,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "2125a9b7634d1ecb37850e2e113ed7f76e03075c",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": "第7次",
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/2125a9b7634d1ecb.ics",
+   "title": "愛MUST BE",
+   "starts_at": "2026-10-31T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00227?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "8ff57f1c1522710f6345b363753d4479058dfbab",
    "group": "sakurazaka46",
    "kind": "ticket",
@@ -636,6 +687,23 @@
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "506d1ec971697b36ea21281cd118b0dfd47edec8",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ミート＆グリート受付",
+   "round": "第9次",
+   "venue": null,
+   "deadline": "2026-11-06T14:00:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/506d1ec971697b36.ics",
+   "title": "愛MUST BE",
+   "starts_at": "2026-11-05T14:00:00+09:00",
+   "ends_at": "2026-11-06T14:00:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00227?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "76aca9890dd89b23f8447fb0ded64a01b1e051b8",

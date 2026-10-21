@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:ac7a9ae87ca64694065a81192b4d5d9f559f23fd@sakamichi-times.com
+DTSTAMP:20261021T043019Z
+DTSTART;TZID=Asia/Tokyo:20261028T140000
+DTEND;TZID=Asia/Tokyo:20261029T140000
+SUMMARY:[櫻坂46] 愛MUST BE（ミート＆グリート受付・第8
+ 次）
+DESCRIPTION:ミート＆グリート受付・第8次 / 櫻坂46\n締切
+ : 10月29日(木) 14:00\n出典: 櫻坂46 公式サイト\nhttps://saku
+ razaka46.com/s/s46/news/detail/S00227?ima=0000\n\n坂道タイムズ ht
+ tps://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/S00227?ima=0000
+CATEGORIES:ミート＆グリート受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:愛MUST BE の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR
