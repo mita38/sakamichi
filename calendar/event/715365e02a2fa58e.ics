@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:715365e02a2fa58eaab76208df1ead254d6c25f2@sakamichi-times.com
+DTSTAMP:20261022T143031Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:[乃木坂46] 第39回東京国際映画祭（放送・配信）
+DESCRIPTION:放送・配信 / 乃木坂46\n出典: 乃木坂46 公式
+ サイト\nhttps://www.nogizaka46.com/s/n46/news/detail/102348?ima=3002
+ &pri1=202610\n\n坂道タイムズ https://sakamichi-times.com/calendar
+ /
+URL:https://www.nogizaka46.com/s/n46/news/detail/102348?ima=3002&pri1=2
+ 02610
+CATEGORIES:放送・配信
+END:VEVENT
+END:VCALENDAR

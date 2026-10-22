@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-22T20:30:54+09:00",
+ "generated_at": "2026-10-22T23:30:31+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -278,6 +278,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102284?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "715365e02a2fa58eaab76208df1ead254d6c25f2",
+   "group": "nogizaka46",
+   "kind": "broadcast",
+   "kind_label": "放送・配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/715365e02a2fa58e.ics",
+   "title": "第39回東京国際映画祭",
+   "starts_at": "2026-10-27T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102348?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
