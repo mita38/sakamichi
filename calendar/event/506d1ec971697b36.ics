@@ -6,16 +6,16 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:506d1ec971697b36ea21281cd118b0dfd47edec8@sakamichi-times.com
-DTSTAMP:20261023T013018Z
+DTSTAMP:20261023T043027Z
 DTSTART;TZID=Asia/Tokyo:20261105T140000
 DTEND;TZID=Asia/Tokyo:20261106T140000
 SUMMARY:[櫻坂46] 愛MUST BE（ミート＆グリート受付・第9
  次）
 DESCRIPTION:ミート＆グリート受付・第9次 / 櫻坂46\n締切
  : 11月6日(金) 14:00\n出典: 櫻坂46 公式サイト\nhttps://sakur
- azaka46.com/s/s46/news/detail/S00227?ima=0000\n\n坂道タイムズ htt
+ azaka46.com/s/s46/news/detail/S00228?ima=0000\n\n坂道タイムズ htt
  ps://sakamichi-times.com/calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/S00227?ima=0000
+URL:https://sakurazaka46.com/s/s46/news/detail/S00228?ima=0000
 CATEGORIES:ミート＆グリート受付
 BEGIN:VALARM
 TRIGGER:-P1D

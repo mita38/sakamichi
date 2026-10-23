@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:1f9b4b550ffd14df57cd4969265ffebcd48e7bfc@sakamichi-times.com
+DTSTAMP:20261023T043027Z
+DTSTART;TZID=Asia/Tokyo:20261023T140000
+DTEND;TZID=Asia/Tokyo:20261026T140000
+SUMMARY:[乃木坂46] 君ロス（ミート＆グリート受付・第1
+ 次）
+DESCRIPTION:ミート＆グリート受付・第1次 / 乃木坂46\n締
+ 切: 10月26日(月) 14:00\n出典: 乃木坂46 公式サイト\nhttps:
+ //www.nogizaka46.com/s/n46/news/detail/102349?ima=3002&pri1=202610\n\n
+ 坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102349?ima=3002&pri1=2
+ 02610
+CATEGORIES:ミート＆グリート受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:君ロス の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

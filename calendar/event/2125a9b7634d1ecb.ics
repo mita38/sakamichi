@@ -6,16 +6,16 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:2125a9b7634d1ecb37850e2e113ed7f76e03075c@sakamichi-times.com
-DTSTAMP:20261023T013018Z
+DTSTAMP:20261023T043027Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:[櫻坂46] 愛MUST BE（ミート＆グリート受付・第7
  次）
 DESCRIPTION:ミート＆グリート受付・第7次 / 櫻坂46\n出典
  : 櫻坂46 公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/
- S00227?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calen
+ S00228?ima=0000\n\n坂道タイムズ https://sakamichi-times.com/calen
  dar/
-URL:https://sakurazaka46.com/s/s46/news/detail/S00227?ima=0000
+URL:https://sakurazaka46.com/s/s46/news/detail/S00228?ima=0000
 CATEGORIES:ミート＆グリート受付
 BEGIN:VALARM
 TRIGGER:-P1D
