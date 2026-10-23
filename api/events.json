@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-23T23:30:20+09:00",
+ "generated_at": "2026-10-24T06:30:16+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -94,23 +94,6 @@
    "source_label": "櫻坂46 公式サイト"
   },
   {
-   "uid": "681cc4cd45d52d892b49a342feb7c4d631a8057d",
-   "group": "nogizaka46",
-   "kind": "ticket",
-   "kind_label": "ミート＆グリート受付",
-   "round": "第1次",
-   "venue": null,
-   "deadline": "2026-10-23T14:00:00+09:00",
-   "ics_url": "https://sakamichi-times.com/calendar/event/681cc4cd45d52d89.ics",
-   "title": "君ロス",
-   "starts_at": "2026-10-22T14:00:00+09:00",
-   "ends_at": "2026-10-23T14:00:00+09:00",
-   "all_day": false,
-   "confidence": "high",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102341?ima=3002&pri1=202610",
-   "source_label": "乃木坂46 公式サイト"
-  },
-  {
    "uid": "47ac4073219f54321feb7f4b3d0f6a5ef7ccb575",
    "group": "nogizaka46",
    "kind": "ticket",
@@ -160,23 +143,6 @@
    "confidence": "high",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102349?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
-  },
-  {
-   "uid": "0450fa11a99541c26af137e60a491187ac7779d6",
-   "group": "sakurazaka46",
-   "kind": "live",
-   "kind_label": "ライブ・公演",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/0450fa11a99541c2.ics",
-   "title": "6th YEAR ANNIVERSARY LIVE",
-   "starts_at": "2026-10-23T23:59:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/G00239?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
   },
   {
    "uid": "9b39cc4a6435e8ab9a57974de422a1c82fdc4732",
