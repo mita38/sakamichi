@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-24T23:30:14+09:00",
+ "generated_at": "2026-10-25T06:30:14+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -145,23 +145,6 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
-   "uid": "9b39cc4a6435e8ab9a57974de422a1c82fdc4732",
-   "group": "sakurazaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/9b39cc4a6435e8ab.ics",
-   "title": "6th YEAR ANNIVERSARY LIVE",
-   "starts_at": "2026-10-24T00:00:00+09:00",
-   "ends_at": null,
-   "all_day": true,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00004?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
-  },
-  {
    "uid": "204603fe33f92d33db401f887559b0b8518d7c44",
    "group": "sakurazaka46",
    "kind": "ticket",
@@ -177,40 +160,6 @@
    "confidence": "high",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000",
    "source_label": "櫻坂46 公式サイト"
-  },
-  {
-   "uid": "96626daaaed83d99563bf7d668f2f782841f7f1b",
-   "group": "sakurazaka46",
-   "kind": "ticket",
-   "kind_label": "ライブチケット受付",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/96626daaaed83d99.ics",
-   "title": "16th Single BACKS LIVE!!",
-   "starts_at": "2026-10-24T12:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000",
-   "source_label": "櫻坂46 公式サイト"
-  },
-  {
-   "uid": "d83c7603b1bf3439133460b4983121745bf59192",
-   "group": "hinatazaka46",
-   "kind": "broadcast",
-   "kind_label": "放送・配信",
-   "round": null,
-   "venue": null,
-   "deadline": null,
-   "ics_url": "https://sakamichi-times.com/calendar/event/d83c7603b1bf3439.ics",
-   "title": "なすなかの!わが町スーパーマーケット",
-   "starts_at": "2026-10-24T14:00:00+09:00",
-   "ends_at": null,
-   "all_day": false,
-   "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/M02843?ima=0000",
-   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "fdc2b5001f47e0a3aea76e16f8949435fe24b7d7",
