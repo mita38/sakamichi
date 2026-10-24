@@ -6,16 +6,16 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
 UID:2276b2ff93009f8baa86942c75bbc66086f3124f@sakamichi-times.com
-DTSTAMP:20261024T013016Z
+DTSTAMP:20261024T043023Z
 DTSTART;TZID=Asia/Tokyo:20261216T173000
 DTEND;TZID=Asia/Tokyo:20261216T193000
 SUMMARY:[櫻坂46] 16th Single BACKS LIVE!!（ライブ・公演）
 LOCATION:ぴあアリーナ
 DESCRIPTION:ライブ・公演 / 櫻坂46\n会場: ぴあアリーナ\n
  出典: 櫻坂46 公式サイト\nhttps://sakurazaka46.com/s/s46/news/d
- etail/T00006?ima=0000\n\n坂道タイムズ https://sakamichi-times.com
+ etail/T00009?ima=0000\n\n坂道タイムズ https://sakamichi-times.com
  /calendar/
-URL:https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000
+URL:https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000
 CATEGORIES:ライブ・公演
 END:VEVENT
 END:VCALENDAR

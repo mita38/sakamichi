@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:67b666b55bbe8ce8db4cc7ab7ef9ebc94686cb79@sakamichi-times.com
+DTSTAMP:20261024T043023Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:[櫻坂46] 16th Single BACKS LIVE!!（ライブチケット受
+ 付）
+DESCRIPTION:ライブチケット受付 / 櫻坂46\n出典: 櫻坂46 
+ 公式サイト\nhttps://sakurazaka46.com/s/s46/news/detail/T00009?ima=
+ 0000\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000
+CATEGORIES:ライブチケット受付
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:16th Single BACKS LIVE!! の受付期間です
+END:VALARM
+END:VEVENT
+END:VCALENDAR

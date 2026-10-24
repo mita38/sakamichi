@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-24T10:30:16+09:00",
+ "generated_at": "2026-10-24T13:30:23+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -175,7 +175,24 @@
    "ends_at": "2026-11-01T23:59:00+09:00",
    "all_day": false,
    "confidence": "high",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "96626daaaed83d99563bf7d668f2f782841f7f1b",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/96626daaaed83d99.ics",
+   "title": "16th Single BACKS LIVE!!",
+   "starts_at": "2026-10-24T12:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -723,6 +740,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "67b666b55bbe8ce8db4cc7ab7ef9ebc94686cb79",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/67b666b55bbe8ce8.ics",
+   "title": "16th Single BACKS LIVE!!",
+   "starts_at": "2026-11-06T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "709f6d5d5983dcdfdc88571cef3accbd5f859cb9",
    "group": "hinatazaka46",
    "kind": "ticket",
@@ -1063,6 +1097,23 @@
    "source_label": "乃木坂46 公式サイト"
   },
   {
+   "uid": "3427f240bb707ed487ee70aab882f0d5edbd65a6",
+   "group": "sakurazaka46",
+   "kind": "ticket",
+   "kind_label": "ライブチケット受付",
+   "round": null,
+   "venue": null,
+   "deadline": "2026-11-23T23:59:00+09:00",
+   "ics_url": "https://sakamichi-times.com/calendar/event/3427f240bb707ed4.ics",
+   "title": "16th Single BACKS LIVE!!",
+   "starts_at": "2026-11-18T12:00:00+09:00",
+   "ends_at": "2026-11-23T23:59:00+09:00",
+   "all_day": false,
+   "confidence": "high",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
    "uid": "792a5152580fe65926834563d8160d36e4bd2bf3",
    "group": "nogizaka46",
    "kind": "live",
@@ -1195,7 +1246,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -1399,7 +1450,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -1416,7 +1467,7 @@
    "ends_at": null,
    "all_day": false,
    "confidence": "medium",
-   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00006?ima=0000",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/T00009?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -1467,7 +1518,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102328?ima=3002&pri1=202610",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102354?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
