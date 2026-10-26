@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-26T17:30:14+09:00",
+ "generated_at": "2026-10-26T20:30:20+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -653,6 +653,23 @@
    "confidence": "medium",
    "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00925?ima=0000",
    "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "420f8f214972098f8b7bb822b1d09443b8b85eba",
+   "group": "nogizaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/420f8f214972098f.ics",
+   "title": "YouTube おちゃのまスペシャル 2026",
+   "starts_at": "2026-11-07T21:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102363?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "0d49e5bf574b50ec007b7fca4d3f2e308f7d9050",

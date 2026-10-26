@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//坂道タイムズ//calendar//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+UID:420f8f214972098f8b7bb822b1d09443b8b85eba@sakamichi-times.com
+DTSTAMP:20261026T113020Z
+DTSTART;TZID=Asia/Tokyo:20261107T210000
+DTEND;TZID=Asia/Tokyo:20261107T230000
+SUMMARY:[乃木坂46] YouTube おちゃのまスペシャル 2026（配
+ 信）
+DESCRIPTION:配信 / 乃木坂46\n出典: 乃木坂46 公式サイト\n
+ https://www.nogizaka46.com/s/n46/news/detail/102363?ima=3002&pri1=20261
+ 0\n\n坂道タイムズ https://sakamichi-times.com/calendar/
+URL:https://www.nogizaka46.com/s/n46/news/detail/102363?ima=3002&pri1=2
+ 02610
+CATEGORIES:配信
+END:VEVENT
+END:VCALENDAR
