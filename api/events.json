@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-27T13:30:14+09:00",
+ "generated_at": "2026-10-27T17:30:26+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -176,6 +176,23 @@
    "all_day": false,
    "confidence": "medium",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02210?ima=0000",
+   "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "d9ec59978828cb29a30935eade433e3f418ee61c",
+   "group": "sakurazaka46",
+   "kind": "broadcast",
+   "kind_label": "テレビ放送",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/d9ec59978828cb29.ics",
+   "title": "これ余談なんですけど・・・",
+   "starts_at": "2026-10-28T23:25:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://sakurazaka46.com/s/s46/news/detail/M02213?ima=0000",
    "source_label": "櫻坂46 公式サイト"
   },
   {
@@ -1100,17 +1117,17 @@
    "uid": "c7ab75c4ebca555822c467cca57a7e891123eef4",
    "group": "nogizaka46",
    "kind": "broadcast",
-   "kind_label": "配信",
+   "kind_label": "放送・配信",
    "round": null,
    "venue": null,
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/c7ab75c4ebca5558.ics",
-   "title": "一度好きになった人",
+   "title": "文化祭EVENT",
    "starts_at": "2026-12-02T00:00:00+09:00",
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102364?ima=3002&pri1=202610",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102366?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
   },
   {
