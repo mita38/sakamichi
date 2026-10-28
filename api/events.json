@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-28T17:30:19+09:00",
+ "generated_at": "2026-10-28T20:30:21+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -92,6 +92,23 @@
    "confidence": "high",
    "source_url": "https://sakurazaka46.com/s/s46/news/detail/S00227?ima=0000",
    "source_label": "櫻坂46 公式サイト"
+  },
+  {
+   "uid": "4f12dc3bd3b898fed5037518e80d41bacaad24bc",
+   "group": "nogizaka46",
+   "kind": "ticket",
+   "kind_label": "チケット・受付",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/4f12dc3bd3b898fe.ics",
+   "title": "ミュージカル JUMP",
+   "starts_at": "2026-10-28T18:00:00+09:00",
+   "ends_at": null,
+   "all_day": false,
+   "confidence": "medium",
+   "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102369?ima=3002&pri1=202610",
+   "source_label": "乃木坂46 公式サイト"
   },
   {
    "uid": "a8d2a7b5e157466d37abf1ea609d7733ba52da79",
@@ -471,9 +488,9 @@
    "uid": "d42c0acbec9eb18dfb351868558addc28748af7b",
    "group": "hinatazaka46",
    "kind": "event",
-   "kind_label": "イベント",
+   "kind_label": "ミート＆グリート",
    "round": null,
-   "venue": "開催会場",
+   "venue": null,
    "deadline": null,
    "ics_url": "https://sakamichi-times.com/calendar/event/d42c0acbec9eb18d.ics",
    "title": "イチャイチャ虫",
@@ -481,7 +498,7 @@
    "ends_at": null,
    "all_day": true,
    "confidence": "medium",
-   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/R00592?ima=0000",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/S00363?ima=0000",
    "source_label": "日向坂46 公式サイト"
   },
   {
