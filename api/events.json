@@ -1,7 +1,7 @@
 {
  "site": "坂道タイムズ",
  "url": "https://sakamichi-times.com/",
- "generated_at": "2026-10-28T13:30:19+09:00",
+ "generated_at": "2026-10-28T17:30:19+09:00",
  "groups": [
   {
    "key": "nogizaka46",
@@ -1027,6 +1027,40 @@
    "confidence": "medium",
    "source_url": "https://www.nogizaka46.com/s/n46/news/detail/102326?ima=3002&pri1=202610",
    "source_label": "乃木坂46 公式サイト"
+  },
+  {
+   "uid": "35244a5df001d96a230e7b60782e88230792b4c0",
+   "group": "hinatazaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/35244a5df001d96a.ics",
+   "title": "GIFT 〜Girls Idol Festival Tokyo〜",
+   "starts_at": "2026-11-28T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00927?ima=0000",
+   "source_label": "日向坂46 公式サイト"
+  },
+  {
+   "uid": "a8fa9eb3154731d58a6864c59b89dee35bb721bd",
+   "group": "hinatazaka46",
+   "kind": "broadcast",
+   "kind_label": "配信",
+   "round": null,
+   "venue": null,
+   "deadline": null,
+   "ics_url": "https://sakamichi-times.com/calendar/event/a8fa9eb3154731d5.ics",
+   "title": "GIFT 〜Girls Idol Festival Tokyo〜",
+   "starts_at": "2026-11-29T00:00:00+09:00",
+   "ends_at": null,
+   "all_day": true,
+   "confidence": "medium",
+   "source_url": "https://www.hinatazaka46.com/s/official/news/detail/E00927?ima=0000",
+   "source_label": "日向坂46 公式サイト"
   },
   {
    "uid": "c7a75f7c40e80009f968fab5e2cdfc2c61ec99da",
